@@ -1,0 +1,22 @@
+#app-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0px;
+  background: #dfe3e625;
+}
+
+#app-header-left {}
+
+#app-header-center {}
+
+#app-title {
+  font-weight: 300;
+  color: #323232;
+  letter-spacing: 3px;
+  /* text-transform: uppercase; */
+  /* text-transform: lowercase; */
+}
+
+#app-header-right {}
