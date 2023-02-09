@@ -1,0 +1,257 @@
+/* general styles */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  z-index: 0;
+}
+
+html {
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+#app {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  grid-template-columns: 1fr;
+  gap: 0px;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+#app-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0px;
+  padding: 8px 16px;
+}
+
+#app-body {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 0px;
+  /* overflow-x: auto; */
+  overflow-x: hidden;
+  overflow-y: hidden;
+
+
+}
+
+#app-footer {
+  padding: 8px 16px;
+
+}
+
+.board-wrapper {
+  padding: 1rem;
+  height: 100%;
+  /* width: 100%; */
+  /* scroll-snap-type-x: mandatory; */
+  /* overscroll-behavior-x: contain; */
+  overflow-x: scroll;
+  
+  /* overflow-y: hidden; */
+  /* overflow-y: scroll; */
+  /* overflow: hidden; */
+  scroll-snap-type: x mandatory;
+  scroll-snap-points-x:  repeat(90px);
+
+}
+
+/* column styles */
+
+.column__list {
+  position: relative;
+  grid-gap: .5rem;
+  display: grid;
+  /* grid-template-columns: repeat(auto-fill, minmax(360px, 1fr)); */
+  /* align-items: start; */
+  height: 100%;
+  /* width: 100%; */
+
+  grid-auto-flow: column;
+  grid-auto-columns: minmax(360px, 1fr);
+  overscroll-behavior-x: contain;
+  scroll-snap-type: x mandatory;
+  /* scroll-padding: 20px; */
+  /* scroll-snap-points-x:  repeat(90px); */
+  /* overflow: auto; */
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+
+.column__item {
+  scroll-snap-align: center;
+  scroll-snap-stop: always;
+}
+
+
+.column__item {
+  position: relative;
+  top: 0;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  grid-template-columns: 1fr;
+  gap: 4px;
+  /* height: 100%; */
+  padding: .5rem;
+  background-color: #dfe3e6;
+  border-radius: .2rem;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  /* WHERE THE HORIZONTAL COLUMN SNAPPING HAPPENS */
+
+  scroll-snap-type: x mandatory;
+
+}
+
+
+
+.column__title--wrapper {
+  position: sticky;
+  top: 0;
+  left: 0;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  padding: .25rem;
+  align-items: center;
+}
+
+.column__title--wrapper h2 {
+  color: #17394d;
+  font-weight: 700;
+  font-size: .9rem;
+}
+
+.column__title--wrapper i {
+  text-align: right;
+  color: #798d99;
+}
+
+
+
+.column__item--cta {
+  padding: .25rem;
+  display: flex;
+  color: #798d99;
+}
+
+.column__item--cta i {
+  margin-right: .25rem;
+}
+
+
+/* card styles */
+
+.card__list {
+  display: grid;
+  grid-auto-rows: minmax(150px, 1fr);
+  grid-gap: .5rem;
+  margin: .5rem 0;
+  overflow-y: auto;
+  /* height: 100%; */
+  scroll-snap-type: y mandatory;
+  
+}
+
+.card__item {
+  background-color: white;
+  border-radius: .25rem;
+  box-shadow: 0 1px 0 rgba(9, 45, 66, .25);
+  padding: .5rem;
+  /* height: 200px; */
+  overflow: hidden;
+}
+
+.card__tag {
+  font-size: .75rem;
+  padding: .1rem .5rem;
+  border-radius: .25rem;
+  font-weight: 700;
+  color: white;
+  margin-bottom: .75rem;
+  display: inline-block;
+}
+
+.card__image {
+  width: 100%;
+  margin-bottom: .25rem;
+}
+
+/* sticker colors */
+
+.card__tag--design {
+  background-color: #61bd4f;
+}
+
+.card__tag--browser {
+  background-color: #c377e0;
+}
+
+.card__tag--mobile {
+  background-color: #f2d600;
+}
+
+.card__tag--high {
+  background-color: #eb5a46;
+}
+
+.card__tag--low {
+  background-color: #00c2e0;
+}
+
+.card__title {
+  color: #17394d;
+  margin-bottom: .75rem;
+}
+
+/* card actions */
+
+.card__actions {
+  display: flex;
+  align-items: center;
+}
+
+.card__actions--wrapper i {
+  color: #798d99;
+  margin-right: .5rem;
+}
+
+.card__actions--text {
+  color: #798d99;
+  font-size: .8rem;
+  margin-left: -.25rem;
+  margin-right: .5rem;
+}
+
+.card__avatars {
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+}
+
+.card__avatars--item {
+  margin-left: .25rem;
+  width: 28px;
+  height: 28px;
+}
+
+.avatar__image {
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
