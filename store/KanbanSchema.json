@@ -1,0 +1,30 @@
+{
+  "KanbanBoard": {
+    "name": "string",
+    "createdDate": "date",
+    "modifiedDate": "date",
+    "members": [],
+    "columns": []
+  },
+  "Column": {
+    "name": "string",
+    "createdDate": "date",
+    "modifiedDate": "date",
+    "members": [],
+    "columns": []
+  },
+  "KanbanCard": {
+    "name": "string",
+    "createdDate": "date",
+    "modifiedDate": "date",
+    "members": [],
+    "columns": []
+  },
+  "Member": {
+    "name": "string",
+    "createdDate": "date",
+    "modifiedDate": "date",
+    "members": [],
+    "columns": []
+  }
+}

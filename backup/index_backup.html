@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="./css/app-header.css" />
   <link rel="stylesheet" href="./css/app-footer.css" />
   <link rel="stylesheet" href="./css/app-body.css" />
-  <link rel="stylesheet" href="./css/kanban-card.css" />
 
 </head>
 
@@ -31,7 +30,7 @@
       <div id="app-header-right"></div>
     </header>
     <section id="app-body">
-      <section id="kanban-board" class="board-wrapper">
+      <section id="board-wrapper" class="board-wrapper">
         <ul class="column__list">
 
           <li class="column__item">
@@ -40,36 +39,6 @@
               <i class="fas fa-ellipsis-h"></i>
             </div>
             <ul class="card__list">
-              <li class="card__item">
-                <section class="card__tags">
-                  <span class="card__tag card__tag--mobile">Mobile</span>
-                  <span class="card__tag card__tag--high">High Priority</span>
-                </section>
-
-                <section class="card__content">
-                  <h6 class="card__content--title">Pop-over max width issue on mobile</h6>
-                </section>
-
-                <section class="card__detail">
-                  <ol class="card__actions">
-                    <li class="card__actions--wrapper">
-                      <i class="fas fa-align-left"></i>
-                    </li>
-                    <li class="card__actions--wrapper">
-                      <i class="far fa-comment"></i><span class="card__actions--text">1</span>
-                    </li>
-                  </ol>
-
-                  <ol class="card__avatars">
-                    <li class="card__avatars--item">
-                      <img src="https://images.unsplash.com/photo-1516756587022-7891ad56a8cd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80" alt="Woman, Lady, Female" class="avatar__image">
-                    </li>
-                    <li class="card__avatars--item">
-                      <img src="https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80" alt="Woman standing near blue steel gate" class="avatar__image">
-                    </li>
-                  </ol>
-                </section>
-              </li>
               <li class="card__item">
                 <span class="card__tag card__tag--browser">Browser</span>
                 <h6 class="card__title">Lightbox loading issue on Safari</h6>
@@ -476,10 +445,6 @@
 
   </template>
 
-  <template id="kanban-board-template">
-    <section id="kanban-board" class="board-wrapper view"></section>
-  </template>
-
   <template id="column-list-template">
     <ul class="column__list">
       <kanban-column v-for="(index, column) in columns" :detail="column" />
@@ -504,38 +469,15 @@
     </li>
   </template>
 
-  <template id="kanban-card-template">
+  <template id="card-template">
     <li class="card__item">
-      <section class="card__tags">
-        <span class="card__tag card__tag--mobile">Mobile</span>
-        <span class="card__tag card__tag--high">High Priority</span>
-      </section>
-
-      <section class="card__content">
-        <h6 class="card__content--title">Pop-over max width issue on mobile</h6>
-      </section>
-
-      <section class="card__content">
-        <ol class="card__actions">
-          <li class="card__actions--wrapper">
-            <i class="fas fa-align-left"></i>
-            <i class="far fa-comment"></i><span class="card__actions--text">1</span>
-          </li>
-        </ol>
-      </section>
-
-      <section class="card__content">
-        <ol class="card__avatars">
-          <li class="card__avatars--item">
-            <!-- Photo by Michael Alfonso on Unsplash -->
-            <img src="https://images.unsplash.com/photo-1516756587022-7891ad56a8cd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80" alt="Woman, Lady, Female" class="avatar__image">
-          </li>
-          <li class="card__avatars--item">
-            <!-- Photo by Toa Heftiba on Unsplash -->
-            <img src="https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80" alt="Woman standing near blue steel gate" class="avatar__image">
-          </li>
-        </ol>
-      </section>
+      <span class="card__tag card__tag--browser">{{ tag }}</span>
+      <h6 class="card__title">{{ title }}</h6>
+      <ol class="card__actions">
+        <li class="card__actions--wrapper">
+          <i class="fas fa-align-left"></i>
+        </li>
+      </ol>
     </li>
   </template>
 </body>

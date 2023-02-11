@@ -5,9 +5,9 @@ import ham from 'https://hamilsauce.github.io/hamhelper/hamhelper1.0.0.js';
 const { template, utils } = ham;
 
 export default {
-  template: '#column-list-template',
+  template: '#kanban-board-template',
   props: {
-    order: Object,
+    cards: Array,
   },
   setup(props) {
     const order = ref(props.order)

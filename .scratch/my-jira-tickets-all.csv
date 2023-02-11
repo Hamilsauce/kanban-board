@@ -1,0 +1,1609 @@
+Summary,Issue key,Issue id,Parent id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Project url,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Fix versions,Fix versions,Due date,Votes,Labels,Labels,Labels,Description,Environment,Watchers,Watchers,Watchers,Watchers,Watchers,Watchers,Watchers,Watchers,Watchers,Watchers,Watchers,Watchers,Watchers,Watchers,Watchers Id,Watchers Id,Watchers Id,Watchers Id,Watchers Id,Watchers Id,Watchers Id,Watchers Id,Watchers Id,Watchers Id,Watchers Id,Watchers Id,Watchers Id,Watchers Id,Log Work,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Inward issue link (Blocks),Inward issue link (Blocks),Inward issue link (Blocks),Inward issue link (Blocks),Outward issue link (Blocks),Outward issue link (Blocks),Outward issue link (Blocks),Inward issue link (Cloners),Outward issue link (Cloners),Inward issue link (Issue split),Outward issue link (Issue split),Outward issue link (Issue split),Outward issue link (Issue split),Outward issue link (Issue split),Inward issue link (Parent),Inward issue link (Parent),Outward issue link (Parent),Outward issue link (Polaris issue link),Outward issue link (Problem/Incident),Inward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Inward issue link (Zephyr Capture testing),Outward issue link (Zephyr Capture testing),Attachment,Attachment,Attachment,Attachment,Attachment,Custom field (# SKUs Affected),Custom field (# of Multi-Variants Created),Custom field (# of Multi-Variants Loaded),Custom field (# of SKUs on VPR),Custom field (# of Single Variants Created),Custom field (# of Terminal Nodes requested on VPR),Custom field (# of Total Live SKUs for Terminal Nodes Requested on VPR),Custom field (#of SKUs Affected),Custom field (2016 1H Initiatives),Custom field (AC: Data Required),Custom field (AC: Frequency),Custom field (Acceptance Criteria),Custom field (Action items),Custom field (Actual Approach),Custom field (Actual Effort (Story Points)),Custom field (Actual End),Custom field (Actual Finish),Custom field (Actual Start),Custom field (Actual Start),Custom field (Actual Test Live),Custom field (Affected services),Custom field (Alert Acknowledged Date/Time),Custom field (Alert Created Date/Time),Custom field (Analytics Liaison),Custom field (Analytics Verification Required?),Custom field (Architect),Custom field (Are variants needed?),Custom field (Asset Request Type),Custom field (Asset Resolution),Custom field (Assets Available?),Custom field (Assumptions),Custom field (Attributes),Custom field (Audience Sheet),Custom field (Automation Field),Custom field (Benefits),Custom field (Benefits / Impact),Custom field (BizRank),Custom field (Budget),Custom field (Bug Description),Custom field (Business Area),Custom field (Business Impact & Value),Custom field (CX Product Team KPI),Custom field (Category),Custom field (Category),Custom field (Category Name),Custom field (Change Request Type),Custom field (Checklist Completed),Custom field (Checklist Content YAML),Custom field (Checklist Progress),Custom field (Checklist Progress %),Custom field (Checklist Progress - Taxonomy Category Test Checklist),Custom field (Checklist Text),Custom field (Checklist Text (view-only)),Custom field (Clarity Business Priority),Custom field (Client),Custom field (Co-Op Marketing?),Custom field (Compass),Custom field (Componentss),Custom field (Concept),Custom field (Confidence),Custom field (Confidence),Custom field (Confidence),Custom field (Confidence),Custom field (Confidence),Custom field (Confidence (1-4)),Custom field (Considerations),Custom field (Content to Gather?),Custom field (Cost Expectation),Custom field (Cost Expectation),Custom field (Criticality),Custom field (Customer Benefit),Custom field (Customer Impact - Describe in detail how the customer will be affected by this request. Use metrics or other data to support your assertion.),Custom field (Customer Impact Details),Custom field (Customer Impacted),Custom field (Customer Impacts),Custom field (Customer Notification Required),Custom field (DS Requesting Team),Custom field (Date),Custom field (Date Imported),Custom field (Date VPR Completed with Merch Strategy),Custom field (Date VPR Sent to Data Science),Custom field (Date Variant Identification Process Completed),Custom field (Debt Description),Custom field (Dependencies),Custom field (Deployment Steps),Custom field (Description),Custom field (Designs ready),Custom field (Dev Owner),Custom field (DevOps Liaison),Custom field (Development),Custom field (Documentation updates needed?),Custom field (Duration),Custom field (END),Custom field (Ease),Custom field (Ease),Custom field (Ease),Custom field (Ease),Custom field (Ease (1-4)),Custom field (Effort),Custom field (Effort (T-Shirt Size)),Custom field (Emergency?),Custom field (Enhanced Review Needed),Custom field (Environment),Custom field (Epic Color),Custom field (Epic Description),Custom field (Epic Link),Epic Link Summary,Custom field (Epic Name),Custom field (Epic Status),Custom field (Error),Custom field (Escalation Level),Custom field (Estimate (Story Points)),Custom field (Estimated # of SKUs),Custom field (Executive Sponsor),Custom field (Expected Date of Completion),Custom field (External ID),Custom field (External Reference),Custom field (Fast-Forward Status),Custom field (Feedback Comments),Custom field (Feedback Rating),Custom field (Financial Benefit),Custom field (Financial Benefit),Custom field (Financial Category),Custom field (Flagged),Custom field (Frequency),Custom field (Functional Group),Custom field (Gathering Type),Custom field (General Area),Custom field (Go Live Date),Custom field (Goal impact),Custom field (Group Objective),Custom field (High Potential SKU?),Custom field (How are we QAing?),Custom field (How is this work measured?),Custom field (ICE Score),Custom field (ID),Custom field (Idea archived),Custom field (Idea archived),Custom field (Idea archived),Custom field (Idea archived),Custom field (Idea archived on),Custom field (Idea archived on),Custom field (Idea archived on),Custom field (Idea archived on),"Custom field (If necessary, did you include all output documentation in the ticket?)",Custom field (Impact),Custom field (Impact (1-4)),Custom field (Impact (T-Shirt Size)),Custom field (Impact on Objective),Custom field (Impact on Objective),Custom field (Implementation Plan),Custom field (Incident Resolved Date/Time),Custom field (Incident Severity),Custom field (Includes Expiration Link?),Custom field (Initial Status),Custom field (Intended Audience),Custom field (Intended Meeting ),"Custom field (Is there a manual workaround or a non-technology solution available? Please explain. What have we tried before, with or without technology?)",Custom field (Is this blocked?),Custom field (Issue color),Custom field (Justification),Custom field (Key Deliverables),Custom field (Last Name),Custom field (Location),Custom field (Locked forms),Custom field (Main Objective),Custom field (Manual Workaround),Custom field (Merch Manager),Custom field (Mission or goal statement),Custom field (Mitigation Status and Comments),Custom field (Model Suggested # of Variant SKUs),Custom field (Monitor & Alerting Needed?),Custom field (Monitoring/Logging/Alerting Tools),Custom field (NPI Request Type),Custom field (NPI Resolution),Custom field (NetSuite Liaison),Custom field (Notes for Reference),Custom field (Notification Plan),Custom field (Number of Changes),Custom field (Number of workflows (parents and children)),Custom field (OKR),Custom field (OKR Key Result),Custom field (OKR Objective),Custom field (OKR Score),Custom field (OW Folder Link in Preview),Custom field (Objective),Custom field (Objective impact),Custom field (Open forms),Custom field (Outcome),Custom field (PIM Liaison),Custom field (PROPOSAL:),Custom field (PROPOSAL:),Custom field (Page),Custom field (Path to Drive),Custom field (Place Copy Here with Promo Code:),Custom field (Pod),Custom field (Portfolio Plan),Custom field (Position),Custom field (Post Change Validation / Testing Procedures),Custom field (Primary Approver),Custom field (Primary Stakeholder),Custom field (Primary Total),Custom field (Priority (1-10)),Custom field (Problem Statement),Custom field (Product Owner Required?),Custom field (Product area),Custom field (Product area),Custom field (Product area),Custom field (Product/Business Owner),Custom field (Program/Category),Custom field (Progress),Custom field (Progress %),Custom field (Progress Status),Custom field (Project Manager),Custom field (Public description),Custom field (Public description),Custom field (Public description),Custom field (Public description),Custom field (QA Team Testing Required?),Custom field (QA Tester),Custom field (QA Tester)Id,Custom field (QA Testing Required),Custom field (Quarter),Custom field (Quarter),Custom field (Quarters),Custom field (Quarters),Custom field (Query),Custom field (Rank),Custom field (Reason for Change),Custom field (Recommendation),Custom field (Reference),Custom field (Release Date),Custom field (Release Note),Custom field (Release Note),Custom field (Release Note),Custom field (Request),Custom field (Request Type),Custom field (Request Type),Custom field (Request date),Custom field (Request language),Custom field (Request participants),Custom field (Requesting Team),Custom field (Requirements Document Template),Custom field (Responding Team),Custom field (Responsible for Incident?),Custom field (Reviewer),Custom field (Risk of Change),Custom field (Risks),Custom field (Roadmap),Custom field (Roadmap),Custom field (Roadmap),Custom field (Roadmap),Custom field (Rollback Plan),Custom field (Root Cause),Custom field (SDS Sheets?),Custom field (SITUATION:),Custom field (SITUATION:),Custom field (SKUs Affected),Custom field (START),Satisfaction rating,Custom field (Scheduled Finish),Custom field (Scheduled Start),Custom field (Scope definition (in scope. / out of scope)),Custom field (Scope of Change),Custom field (Scraping Needed?),Custom field (ScrumMaster),Custom field (Secondary Total),Custom field (Security Liaison),Custom field (SemanticVersion),Custom field (Service Dependencies/Integration testing results),Custom field (Service Owner),Custom field (Severity),Custom field (Shirt Size),Custom field (Short description),Custom field (Short description),Custom field (Short description),Custom field (Short description),Custom field (Site Page),Custom field (Spec ready),Custom field (Specific Type),Custom field (Spike Description),Custom field (Sponsor Approval),Sprint,Sprint,Sprint,Sprint,Sprint,Sprint,Custom field (Start Date (Roadmunk)),Custom field (Start date),Custom field (Status Context),Custom field (Story Description),Custom field (Story Points),Custom field (Story Points),Custom field (Story Points),Custom field (Story point estimate),Custom field (Strategic Pillar (Zoro)),Custom field (StrongPoint Approval Required?),Custom field (Submit Date),Custom field (Submitted forms),Custom field (Suggested Approach),Custom field (Supplier Contact Email),Custom field (Supplier Contact Name),Custom field (Supplier Name),Custom field (System),Custom field (T-Shirt Size),Custom field (TARGET:),Custom field (TARGET:),Custom field (TPO),Custom field (Target Release Month),Custom field (Target end),Custom field (Target start),Team Id,Team Name,Custom field (Team Name),Custom field (Team Objective),Custom field (Team or Project Affected),Custom field (Team/Tech Lead),Custom field (Template Approved),Custom field (Tentative Test Date),Custom field (Test Brief),Custom field (Test Case File),Custom field (Test Case within the file),Custom field (Test End Date),Custom field (Test Length),Custom field (Test Plan),Custom field (Test Result),Custom field (Tester),Custom field (Testing End),Custom field (Testing Start),Custom field (Tests and observations),Custom field (Timebox (Sprints)),Custom field (Timeline Dependencies),Custom field (Total # of SKUs Resulted in Problems/ Needs Investigating),Custom field (Total # of Variants Created/ Good to Load),Custom field (Total # of Variants Loaded),Custom field (Total Catalogs),Custom field (Total SKU's),Custom field (Total forms),Custom field (Trio of Cool),Custom field (Type),Custom field (UAT Required?),Custom field (UI Task Type),Custom field (URL),Custom field (UX Liaison),Custom field (UXR Explain dependencies for date the insights/results are needed by?),Custom field (UXR: Describe the impact this research will have),Custom field (UXR: What are your goals and objectives for this project?),Custom field (UXR: What other information do you think is important and useful as we begin to discuss your project?),Custom field (UXR: What will you do with the insights generated from this research?),Custom field (Updates/Blockers),Custom field (VEN No. Or Grainger Supplier No.),Custom field (Veracode Link),Custom field (Verification Plan/Change resulted in expected outcome),Custom field (Verified By),Custom field (Visual QA Required ?),Custom field (Waiting for Reporter Counter),Custom field (What are the benefits to Zoro of solving this problem?),Custom field (What are the benefits to customers of solving this problem?),Custom field (What does success look like?),"Custom field (What financial value does your request create for Zoro? What is the measurable impact in time, money and cost?)",Custom field (What is the customer problem?),Custom field (What is the most important thing you want to learn first?),Custom field (What is your hypothesis?),Custom field (What solutions do you have in mind?),Custom field (Who is performing UAT?),Custom field (Who is the customer or persona?),Custom field (Who?),Custom field (Work category),Custom field (XD Research Required?),Custom field (ZCL Component Proposal),Custom field (ZCL Other Team Impacted),Custom field (ZCL Project Impact),Custom field (ZDP Liaison),Custom field (ZDP/ZML Acceptance Criteria),Custom field (ZLT Approval),Custom field (ZLT Notes/Comments),Custom field (Zoro Impact),Custom field (Zoro.com Status),Custom field (Zoro/Internal Benefit),Custom field ([CHART] Date of First Response),Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Parent,Parent summary,Status Category
+Items from the same shipment not grouped,GET-226,178811,,Defect,Code Review,GET,Get Team,software,Luke Bahrou,6317c5c155b0a9e29f1c2577,,,Medium,,Jake Hamilton,62e998f332850ea2a3241585,Luke Bahrou,6317c5c155b0a9e29f1c2577,Luke Bahrou,6317c5c155b0a9e29f1c2577,1/24/23 20:31,2/8/23 16:25,2/9/23 14:52,,,,,0,,,,"h3. Exhibiting behavior
+
+Two items from the same shipment, sent together in the same shipment confirmation email are not being grouped in Order Lookup
+
+!Screen Shot 2023-01-24 at 12.09.31 PM.png|width=658,height=328!
+
+!Screen Shot 2023-01-24 at 12.07.54 PM.png|width=1060,height=824!
+
+
+
+h3. Expected Behavior
+
+Any items that share the same tracking number should be grouped on Order Lookup",,Jake Hamilton,Luke Bahrou,,,,,,,,,,,,,62e998f332850ea2a3241585,6317c5c155b0a9e29f1c2577,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25/Jan/23 2:47 PM;62e998f332850ea2a3241585;GOL_TRACKING_FIX1.png;https://zorotools.atlassian.net/secure/attachment/110440/GOL_TRACKING_FIX1.png,24/Jan/23 8:31 PM;6317c5c155b0a9e29f1c2577;Screen Shot 2023-01-24 at 12.07.54 PM.png;https://zorotools.atlassian.net/secure/attachment/110361/Screen+Shot+2023-01-24+at+12.07.54+PM.png,24/Jan/23 8:31 PM;6317c5c155b0a9e29f1c2577;Screen Shot 2023-01-24 at 12.09.31 PM.png;https://zorotools.atlassian.net/secure/attachment/110360/Screen+Shot+2023-01-24+at+12.09.31+PM.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Environment
+- Dataset Name:
+
+- Dataset Workspace:
+
+- DAG Name (Optional):
+
+- Data Source:
+
+- Systems affected (Looker, SFMC,.,.):
+
+- Business Impact:
+
+Precondition
+ -
+
+Steps to reproduce
+ -
+
+Current behavior
+ -
+
+Expected behavior
+ -",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"As a 
+
+I want to 
+
+so that",,,,,,,{},,,,,,,,,,,,,,,"As a
+
+I want to
+
+So that 
+
+Stakeholders
+Business Owner: 
+
+Technical Owner: 
+
+Technical Product Owner: 
+
+Platform Architect/Lead Engineer: 
+
+Data Engineer(s): TBD
+
+Problem Statement(s)
+ -
+ -
+ 
+
+In Scope
+ -
+ -
+Out of Scope
+ -
+ -
+Details
+ -",,,,,,,,,,,,,Refinement,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,,,,,,1|hzzybb:,,,,,,,,,,,,,,,,,Vendor,,,,,,,,,,,,,,1/25/23 20:48,,,,,,,,,,,,,,,,,,,,,,"As a 
+
+I want to (explore/research/discover/design)
+
+So that ",,GET Sprint 2023.B,GET Sprint 2023.C,,,,,,1/25/23 0:00,,"As a 
+
+
+I want to 
+
+
+so that",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Products with same tracking number displays in list. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A new component,,,,"Scenario #1
+Given <<precondition>>
+When <<action>>
+Then <<result>>
+
+Scenario #2 
+Given <<precondition>>
+When <<action>>
+Then <<result>>",,,,,,47:42.5,"25/Jan/23 2:47 PM;62e998f332850ea2a3241585;Screenshot showing correct grouping/assigning trackings. 
+
+Order creds: 
+
+{noformat}{
+  ""id"": ""WB5867316711"",
+  ""email"": ""jake.hamilton+1@zoro.com""
+}{noformat}
+
+
+
+!GOL_TRACKING_FIX1.png|width=788,height=794!",08/Feb/23 4:25 PM;62e998f332850ea2a3241585;have a deploy scheduled for 5pm tomorrow,,,,,,,,,,,,,,,,,,,,,,,,,In Progress
+Implement Tracking Number Analytics,GET-212,177922,,User Story,To Do,GET,Get Team,software,Luke Bahrou,6317c5c155b0a9e29f1c2577,,,Medium,,Jake Hamilton,62e998f332850ea2a3241585,Luke Bahrou,6317c5c155b0a9e29f1c2577,Luke Bahrou,6317c5c155b0a9e29f1c2577,1/16/23 10:34,2/7/23 10:27,2/7/23 17:17,,now,,,0,,,,"h3. Story
+
+As a Zoro Product team member, I want to be able to make decisions on the basis of user data related to clicks on the Tracking Number and Widget links.
+
+The primary goal of adding these events is to be able to discern where customers are clicking to access the Narvar tracking page. Or stated more broadly, where are customers in their fulfillment journey when they decide to click for more specific information.
+
+h3. Placements
+
+Order Lookup Details Page - Widget and Tracking Number
+
+Order History - Tracking Number
+
+Order Details - Tracking Number
+
+h3. Notes
+
+Blocked until Analytics specs are available.",,Andre Alforque,Basent Ismail,James Crouch,Jared Smith,Joe Fang,Kaylee Carlson,Kris Knapczynski,Luke Bahrou,,,,,,,557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f,60c2513ea1746300709b6b22,5cd9cea04305dc0dc7a11b58,627d65e49bb6600069962ae0,5fcfc4c934847e0069dd9e0b,5ec6d5e620ff300c1e3b854a,5e3072213bdc3a0ca55f2f5b,6317c5c155b0a9e29f1c2577,,,,,,,,,,,,,,,,,,,,,,,,,,DAIS-949,,,,,,,GETPD-25,,,,,,,,,07/Feb/23 10:27 AM;ug:060112c6-99aa-434b-a694-6fd33127aace;image-20230207-162748.png;https://zorotools.atlassian.net/secure/attachment/111306/image-20230207-162748.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,YES,,,,,,,,,,,,,,"Environment
+- Dataset Name:
+
+- Dataset Workspace:
+
+- DAG Name (Optional):
+
+- Data Source:
+
+- Systems affected (Looker, SFMC,.,.):
+
+- Business Impact:
+
+Precondition
+ -
+
+Steps to reproduce
+ -
+
+Current behavior
+ -
+
+Expected behavior
+ -",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"As a 
+
+I want to 
+
+so that",,,,,,,{},,,,,,,,,,,,,,,"As a
+
+I want to
+
+So that 
+
+Stakeholders
+Business Owner: 
+
+Technical Owner: 
+
+Technical Product Owner: 
+
+Platform Architect/Lead Engineer: 
+
+Data Engineer(s): TBD
+
+Problem Statement(s)
+ -
+ -
+ 
+
+In Scope
+ -
+ -
+Out of Scope
+ -
+ -
+Details
+ -",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,Yes,,,,,,1|hzzz4d:,,,,,,,,,,,,,,,,,Vendor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"As a 
+
+I want to (explore/research/discover/design)
+
+So that ",,GET Sprint 2023.C,,,,,,,,,"As a 
+
+
+I want to 
+
+
+so that",3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A new component,,,,"Scenario #1
+Given <<precondition>>
+When <<action>>
+Then <<result>>
+
+Scenario #2 
+Given <<precondition>>
+When <<action>>
+Then <<result>>",,,,,,16:28.0,"18/Jan/23 1:16 PM;60c2513ea1746300709b6b22;* Tracking the tracking number. 
+* Order History and Order Detail tab under Account for authenticated and Tracking page for guest. (Home > customer service > my orders)
+* Want to know the page that the click is originating on. ","18/Jan/23 3:17 PM;60c2513ea1746300709b6b22;Specifications listed [here|https://docs.google.com/spreadsheets/d/1C7J4Ri_JgNhs05Awy_pNlAq-vRI6jIbL3RYnqte87pY/edit#gid=688248793&range=53:53]. This is only for tracking on the order details, order history and customer service guest form. Returns tracking will be addressed on a different ticket. ","25/Jan/23 11:55 AM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;[~accountid:6317c5c155b0a9e29f1c2577] to confirm 
+
+* account overview page coverage
+* “Want to know the page that the click is originating on.“ is handled","07/Feb/23 10:27 AM;5fcfc4c934847e0069dd9e0b;[~accountid:62e998f332850ea2a3241585] 
+needs to handle this too 
+
+
+!image-20230207-162748.png|width=1111,height=319!",,,,,,,,,,,,,,,,,,,,,,,To Do
+Pre-Tracking Assignment Order Lookup,GET-197,176377,,User Story,DEPLOYED TO QA,GET,Get Team,software,Luke Bahrou,6317c5c155b0a9e29f1c2577,,,Medium,,Melanie Maerz,62ed880ae50f2f2a3955cd52,Luke Bahrou,6317c5c155b0a9e29f1c2577,Luke Bahrou,6317c5c155b0a9e29f1c2577,12/20/22 15:27,2/6/23 9:11,2/6/23 14:03,,now,,,1,,,,"h3. Story
+
+As a guest customer I want to be able to review information about my order before tracking information is assigned.
+
+h3. Final Designs
+
+[https://www.figma.com/file/RaDGnVHz6qYqyRTZtqDLyW/Order-Tracking?node-id=1744%3A57558&t=ah2grsuWm94hooRN-3|https://www.figma.com/file/RaDGnVHz6qYqyRTZtqDLyW/Order-Tracking?node-id=1744%3A57558&t=ah2grsuWm94hooRN-3|smart-link]
+
+h3. Considerations
+
+Today we don’t allow customers to access this page before tracking is assigned on at least one line item so we’ll need to modify the logic that prevents users from accessing the page in those cases.
+
+Current Error: {{Track Order - Error - NO_TRACKING}}
+
+
+
+*Also including misc style fixes from related stories/components:*
+
+|*Issue*|*Status*|
+|Spacing between ""We've Received Your Order"" and the body copy should be 16px.|{color:#36B37E}*[ FIXED ]*{color}|
+|The top of the product container and the Order Summary container should be aligned|{color:#36B37E}*[ FIXED ]*{color}|
+|Add 8px in between Quantity and Total Price|{color:#36B37E}*[ FIXED ]*{color}|
+|We updated the spacing top and bottom around ""Have an Account?"" to be 48px on mobile and 64px on desktop|{color:#36B37E}*[ FIXED ]*{color}|
+
+
+
+*Bonus req:* Fix lowercase “d” in “Find a different Order” back button 
+
+!image-20230124-181232.png|width=50%!
+
+h3. Approach
+
+* Merge with [https://zorotools.atlassian.net/browse/GET-123|https://zorotools.atlassian.net/browse/GET-123|smart-link] ; will be behind the same feature toggle. 
+* _Out of scope: analytics/tracking separate shipping states_
+
+h3. Test Plan
+
+* When no tracking available, display “We’ve received your order”
+* Able to access Order Lookup before tracking is assigned to any line item",getA,Andre Alforque,Jake Hamilton,Luke Bahrou,,,,,,,,,,,,557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f,62e998f332850ea2a3241585,6317c5c155b0a9e29f1c2577,,,,,,,,,,,,,,,,,,,,,GET-123,,,,,,,,,,,,,,,,,,,GET-196,,,,,,,24/Jan/23 12:12 PM;62e998f332850ea2a3241585;image-20230124-181232.png;https://zorotools.atlassian.net/secure/attachment/110323/image-20230124-181232.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Environment
+- Dataset Name:
+
+- Dataset Workspace:
+
+- DAG Name (Optional):
+
+- Data Source:
+
+- Systems affected (Looker, SFMC,.,.):
+
+- Business Impact:
+
+Precondition
+ -
+
+Steps to reproduce
+ -
+
+Current behavior
+ -
+
+Expected behavior
+ -",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"As a 
+
+I want to 
+
+so that",,,,,,,"{pullrequest={dataType=pullrequest, state=OPEN, stateCount=1}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":1,""lastUpdated"":""2023-02-06T17:25:53.966-0600"",""stateCount"":1,""state"":""OPEN"",""dataType"":""pullrequest"",""open"":true},""byInstanceType"":{""bitbucket"":{""count"":1,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,"As a
+
+I want to
+
+So that 
+
+Stakeholders
+Business Owner: 
+
+Technical Owner: 
+
+Technical Product Owner: 
+
+Platform Architect/Lead Engineer: 
+
+Data Engineer(s): TBD
+
+Problem Statement(s)
+ -
+ -
+ 
+
+In Scope
+ -
+ -
+Out of Scope
+ -
+ -
+Details
+ -",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,YES,,,Yes,,,,,,1|hzzlo7:,,,,,,,,,,,,,,,,,Vendor,,,,,,,,,,,,,,2/3/23 16:01,,,,,,,,,,,,,,,,,,,,,,"As a 
+
+I want to (explore/research/discover/design)
+
+So that ",,GET Sprint 2023.B,GET Sprint 2023.C,,,,,,2/3/23 0:00,,"As a 
+
+
+I want to 
+
+
+so that",10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"If order has items that have been shipped (at least 1 item with tracking number), then:
+  1. tracking list header should read 'Your Shipments';
+  2. there should be no subtitle copy following under the tracking header;
+
+Else 
+  1.  tracking list header should read 'We've Received Your Order';
+  2. there should be subtitle copy following under the tracking header that reads  `You will receive an email when your tracking information becomes available. This page will also update with your status.`;",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,YES,,,,,,,,,,,,,,,A new component,,,,"Scenario #1
+Given <<precondition>>
+When <<action>>
+Then <<result>>
+
+Scenario #2 
+Given <<precondition>>
+When <<action>>
+Then <<result>>",,,,,,08:52.2,"21/Dec/22 11:08 AM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;[~accountid:60c2513ea1746300709b6b22] et. al. FYI: After this ticket is deployed, this error will drop off from tracking.","20/Jan/23 2:03 PM;62e998f332850ea2a3241585;reviewing get-123 components/layout - appears from from designs that no new component necessary, need to set header content conditionally and render subheader content conditionally (no subheader present for with-tracking designs).
+
+----",20/Jan/23 2:04 PM;62e998f332850ea2a3241585;cutting branch from feature/get-123,30/Jan/23 1:55 PM;62e998f332850ea2a3241585;updated component to handle pre-shipping orders; added unit tests; added cypress tests,31/Jan/23 4:19 PM;62e998f332850ea2a3241585;moved sign in modal into guest order management component for layout; unit and e2e tests set. opening pr and getting vqa.,"03/Feb/23 9:55 AM;62e998f332850ea2a3241585;finished misc style changes, verified with [~accountid:5e66556bae59460cfb019234]. finishing up tests + sending to qa ",03/Feb/23 5:50 PM;62e998f332850ea2a3241585;updated some tests; sent to qa. will review pr comments top of the morning of the top of next week,,,,,,,,,,,,,,,,,,,,In Progress
+[NS] Handle invoice payment,GET-222,178327,,Defect,Done,GET,Get Team,software,Luke Bahrou,6317c5c155b0a9e29f1c2577,,,Medium,,Luke Bahrou,6317c5c155b0a9e29f1c2577,Joe Fang,5fcfc4c934847e0069dd9e0b,Joe Fang,5fcfc4c934847e0069dd9e0b,1/19/23 13:20,2/1/23 9:35,2/7/23 17:18,,,,2/1/23 0:00,1,,,,"Background Info:
+
+[https://zorotools.atlassian.net/browse/GET-219|https://zorotools.atlassian.net/browse/GET-219|smart-link] 
+
+
+
+
+!image-20230131-155825.png|width=2023,height=734!
+
+
+Testing order
+
+WB4668646894
+[melanie.maerz+Net30-2@zoro.com|mailto:melanie.maerz+Net30-2@zoro.com]",,Jake Hamilton,Joe Fang,,,,,,,,,,,,,62e998f332850ea2a3241585,5fcfc4c934847e0069dd9e0b,,,,,,,,,,,,,,,,,,,,,,,,,,GET-223,,,,GET-221,,,,,,,,,,,GET-219,,,,,,,20/Jan/23 11:02 AM;62e998f332850ea2a3241585;GET-222-NET30-TEST-RESULT.json;https://zorotools.atlassian.net/secure/attachment/110128/GET-222-NET30-TEST-RESULT.json,20/Jan/23 11:02 AM;62e998f332850ea2a3241585;GET-222-NON-NET30-TEST-RESULT.json;https://zorotools.atlassian.net/secure/attachment/110127/GET-222-NON-NET30-TEST-RESULT.json,19/Jan/23 1:20 PM;ug:060112c6-99aa-434b-a694-6fd33127aace;image-20230119-185627.png;https://zorotools.atlassian.net/secure/attachment/110056/image-20230119-185627.png,24/Jan/23 11:45 AM;62e998f332850ea2a3241585;image-20230124-174547.png;https://zorotools.atlassian.net/secure/attachment/110321/image-20230124-174547.png,31/Jan/23 9:58 AM;ug:060112c6-99aa-434b-a694-6fd33127aace;image-20230131-155825.png;https://zorotools.atlassian.net/secure/attachment/110783/image-20230131-155825.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Environment
+- Dataset Name:
+
+- Dataset Workspace:
+
+- DAG Name (Optional):
+
+- Data Source:
+
+- Systems affected (Looker, SFMC,.,.):
+
+- Business Impact:
+
+Precondition
+ -
+
+Steps to reproduce
+ -
+
+Current behavior
+ -
+
+Expected behavior
+ -",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"As a 
+
+I want to 
+
+so that",,,,,,,{},,,,,,,,,,,,,,,"As a
+
+I want to
+
+So that 
+
+Stakeholders
+Business Owner: 
+
+Technical Owner: 
+
+Technical Product Owner: 
+
+Platform Architect/Lead Engineer: 
+
+Data Engineer(s): TBD
+
+Problem Statement(s)
+ -
+ -
+ 
+
+In Scope
+ -
+ -
+Out of Scope
+ -
+ -
+Details
+ -",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,,,,,,1|hzzw6n:,,,,,,,,,,,,,,,,,Vendor,,,,,,,,,,,,,,1/20/23 1:23,,,,,,,,,,,,,,,,,,,,,,"As a 
+
+I want to (explore/research/discover/design)
+
+So that ",,GET Sprint 2023.B,,,,,,,1/20/23 0:00,,"As a 
+
+
+I want to 
+
+
+so that",3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A new component,,,,"Scenario #1
+Given <<precondition>>
+When <<action>>
+Then <<result>>
+
+Scenario #2 
+Given <<precondition>>
+When <<action>>
+Then <<result>>",,,,,,34:13.9,20/Jan/23 9:34 AM;62e998f332850ea2a3241585;Fixed/hardened code causing error as well as strengthened a couple other type-unsafe areas. Added handling for net 30 payments. will open deploy ticket after some review and more testing.,"20/Jan/23 11:02 AM;62e998f332850ea2a3241585;Tested response data for both a Net30 order and non-Net30 order; verified data is accurate/valid. See attached files for test results
+
+[^GET-222-NET30-TEST-RESULT.json]
+[^GET-222-NON-NET30-TEST-RESULT.json]
+
+","24/Jan/23 11:45 AM;62e998f332850ea2a3241585;Deployed guest_order_lookup script changes to prod. see attached screenshot of valid response data in prod. 
+
+!image-20230124-174547.png|width=1076,height=1200!",,,,,,,,,,,,,,,,,,,,,,,,Done
+Returns History Analytics Fix,GET-174,174626,,Defect,Done,GET,Get Team,software,Luke Bahrou,6317c5c155b0a9e29f1c2577,,,Medium,Done,Jake Hamilton,62e998f332850ea2a3241585,Alex Mains,629f64fc9f5d480069c8f9fb,Alex Mains,629f64fc9f5d480069c8f9fb,11/28/22 15:00,1/31/23 13:40,1/23/23 16:15,1/19/23 7:22,2023.01.19,,1/20/23 0:00,1,,,,"There should be an analytics event that occurs when an RA number is clicked and the user is redirected from Returns History to the Return Details page. Code for the event is already written however it currently never runs.
+
+*Update*:  The problem occurs in the ReturnSummary component. The RA and order number buttons/links are routerLinks and the analytics event emitter/function is attached to the links as click event handler. The problem is that the router handles the navigation away from the screen (thus unmounting the ReturnSummary component) before the click event is handled in the component.
+
+The buttons/links that need to be tested/verified are located in Order History > Returns and can be seen here: 
+
+!image-20230103-195029.png|width=846,height=874!",get-b ([https://getb-www.zoro.com|https://getb-www.zoro.com/]),Alex Mains,Andre Alforque,Basent Ismail,Jake Hamilton,James Crouch,Jared Smith,Kaylee Carlson,Kris Knapczynski,Melanie Maerz,,,,,,629f64fc9f5d480069c8f9fb,557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f,60c2513ea1746300709b6b22,62e998f332850ea2a3241585,5cd9cea04305dc0dc7a11b58,627d65e49bb6600069962ae0,5ec6d5e620ff300c1e3b854a,5e3072213bdc3a0ca55f2f5b,62ed880ae50f2f2a3955cd52,,,,,,,,,,,,,,,,,,,,,,,,,DAIS-929,,,,,,,,,,,,,,,,03/Jan/23 1:59 PM;62e998f332850ea2a3241585;image-20230103-195029.png;https://zorotools.atlassian.net/secure/attachment/109010/image-20230103-195029.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,YES,,,,,,,,,,,,,,"Environment
+- Dataset Name:
+
+- Dataset Workspace:
+
+- DAG Name (Optional):
+
+- Data Source:
+
+- Systems affected (Looker, SFMC,.,.):
+
+- Business Impact:
+
+Precondition
+ -
+
+Steps to reproduce
+ -
+
+Current behavior
+ -
+
+Expected behavior
+ -",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"As a 
+
+I want to 
+
+so that",,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=5}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":5,""lastUpdated"":""2023-01-19T10:27:58.560-0600"",""stateCount"":5,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":5,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,"As a
+
+I want to
+
+So that 
+
+Stakeholders
+Business Owner: 
+
+Technical Owner: 
+
+Technical Product Owner: 
+
+Platform Architect/Lead Engineer: 
+
+Data Engineer(s): TBD
+
+Problem Statement(s)
+ -
+ -
+ 
+
+In Scope
+ -
+ -
+Out of Scope
+ -
+ -
+Details
+ -",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,Yes,,,,,,1|hzxpyv:,,,,,"fixed handling of click event/routing on return and order number links. analytics events now fire before router disposes component. 
+
+Tests updated/fixed.",,,,,,,,,,,,Vendor,,,,,,,,,,,,,,1/18/23 18:50,,,,,,,,,,,,,,,,,,,,,,"As a 
+
+I want to (explore/research/discover/design)
+
+So that ",,GET Sprint 2022.Z,GET Sprint 2023.A,GET Sprint 2023.B,,,,,1/18/23 0:00,,"As a 
+
+
+I want to 
+
+
+so that",8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,,A new component,,,,"Scenario #1
+Given <<precondition>>
+When <<action>>
+Then <<result>>
+
+Scenario #2 
+Given <<precondition>>
+When <<action>>
+Then <<result>>",,,,,,04:32.0,"20/Dec/22 7:04 PM;62e998f332850ea2a3241585;fixed handling of click event/routing on return and order number links. analytics events now fire before router disposes component. 
+
+Tests updated/fixed.
+
+Opened PR",20/Dec/22 7:05 PM;62e998f332850ea2a3241585;Need to look into e2e reqs for this,"21/Dec/22 9:27 AM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;Please add environment, then reach out to #bof-analytics for QA. ",03/Jan/23 2:05 PM;62e998f332850ea2a3241585;messaged #bof-analytics requesting verification of fix.,04/Jan/23 11:09 AM;627d65e49bb6600069962ae0;[~accountid:62e998f332850ea2a3241585] analytics look good for the clicks to the Order Number & Return Number links on the Return History page.,09/Jan/23 9:23 AM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;re-opening d/t returns summary box bug/defect that appears with/without this change. Working with Holly. ,12/Jan/23 9:20 AM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;[~accountid:5fcfc4c934847e0069dd9e0b] please work or delegate someone to get another pair of eyes on this. ,12/Jan/23 4:03 PM;62e998f332850ea2a3241585;Will use this story to explore cypress during dev sync meeting tomorrow,,,,,,,,,,,,,,,,,,,Done
+Request additional data on Order Lookup Page,GET-127,172166,,Task,Done,GET,Get Team,software,Luke Bahrou,6317c5c155b0a9e29f1c2577,,,Medium,,Jake Hamilton,62e998f332850ea2a3241585,Luke Bahrou,6317c5c155b0a9e29f1c2577,Luke Bahrou,6317c5c155b0a9e29f1c2577,10/26/22 21:00,1/31/23 13:37,2/7/23 17:17,,,,1/31/23 0:00,1,ExternalDependency,NetSuiteDependency,,"The updated order lookup page design requires certain information that is not currently available on the frontend. The expectation is that we will need to make an additional request to the Netsuite team to extend this information for our team to pull into the Order Lookup page.
+
+h3. Currently returned data
+
+{{Ship Date}}
+{{Freight Cost}}
+{{Total Cost}}
+{{Quantity}}
+{{Order Status}}
+{{Tracking Number}}
+{{Zoro #}}
+{{Order Date}}
+{{Ship Method}}
+{{Service (Carrier)}}
+
+h3. Additional data to return
+
+{{Product Image}}
+{{Product Title}}
+{{Total Price (item level)}}
+{{Shipping Address}}
+{{Billing Address}}
+{{Payment Info}}
+{{Subtotal}}
+{{Discounts}}
+{{Shipping Cost}}
+{{Tax}}
+{{Order Total}}
+{{Order Number}}",,Andre Alforque,Jake Bewley,Jake Hamilton,Joe Fang,Luke Bahrou,Vince Hetet,,,,,,,,,557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f,5e7a29b9dde7030c4f153020,62e998f332850ea2a3241585,5fcfc4c934847e0069dd9e0b,6317c5c155b0a9e29f1c2577,63127a79ea661fd37d4f6638,,,,,,,,,,,,,,,,,,GET-150,,,,,,,,,GET-123,,,,,,,,,,,,,,,,,07/Dec/22 3:08 PM;62e998f332850ea2a3241585;guest_order_lookup-sol-response (6a2c2444-3f08-423a-b321-0e6fb3e173d7).json;https://zorotools.atlassian.net/secure/attachment/107591/guest_order_lookup-sol-response+%286a2c2444-3f08-423a-b321-0e6fb3e173d7%29.json,16/Jan/23 11:25 AM;62e998f332850ea2a3241585;image-20230116-172453.png;https://zorotools.atlassian.net/secure/attachment/109769/image-20230116-172453.png,07/Dec/22 3:09 PM;62e998f332850ea2a3241585;single-order-lookup.d (7ab612a9-3e10-47a7-b6b1-271d249def59).ts;https://zorotools.atlassian.net/secure/attachment/107592/single-order-lookup.d+%287ab612a9-3e10-47a7-b6b1-271d249def59%29.ts,05/Dec/22 11:22 AM;62e998f332850ea2a3241585;sol-WB2849562418-items-with-and-without-tracking.json;https://zorotools.atlassian.net/secure/attachment/107333/sol-WB2849562418-items-with-and-without-tracking.json,05/Dec/22 11:08 AM;62e998f332850ea2a3241585;sol-WB4592648992-has-returns.json;https://zorotools.atlassian.net/secure/attachment/107330/sol-WB4592648992-has-returns.json,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,,,,,,GET-18,Improve Order Lookup Experience,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,Yes,,,,,,1|hzyno7:,,,,,,,,,,,,,,,,,Vendor,,,,,,,,,,,,,,11/8/22 23:08,,,,,,,,,,,,,,,,,,,,,,,,GET Sprint 2022.W,GET Sprint 2022.Y,GET Sprint 2022.Z,GET Sprint 2023.A,GET Sprint 2023.B,,,11/8/22 0:00,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,,A new component,,,,,,,,,,00:56.5,"02/Nov/22 10:00 AM;63127a79ea661fd37d4f6638;Is there a contract for this endpoint? 
+If so we should send the updated contract as part of the request.
+If not we should create a contract.
+Having a contract will allow us to create mock data confidently and start working on the stories before the netsuite team is done with their update.","14/Nov/22 9:28 AM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;Per Mark Guagenti: need to consider transitioning to CT as source-of-truth. 
+
+Need to assure all the data ,1:1 is available, including the new information. ","16/Nov/22 8:22 AM;62e998f332850ea2a3241585;Not able to use CT for data, continuing on with NS.","16/Nov/22 8:25 AM;62e998f332850ea2a3241585;Need to finish getting last couple fields, then will investigate/explore grouping edge cases in get-126",16/Nov/22 10:39 AM;5e7a29b9dde7030c4f153020;For more context on not being able to use [CT|https://zorotools.atlassian.net/browse/GET-150]: Guest order returns are not currently being synced from NS. Data sync team would need to sync existing/ongoing returns into CT for this to be possible.,17/Nov/22 9:21 AM;62e998f332850ea2a3241585;Last field to get is discount. need to investigate what field to use as there are many possible fields.,21/Nov/22 11:43 AM;62e998f332850ea2a3241585;{{guest_order_lookup}} script now obtaining all needed fields from ns in sb2. Doing final review of edge case scenarios/reqs then will begin deployment process,"23/Nov/22 10:32 AM;62e998f332850ea2a3241585;Discovered and fixed problem with tracking number formatting at the line item level, where tracking numbers are indiscriminately concated together and assigned to all items in an order even if item isn’t covered by tracking.",23/Nov/22 10:34 AM;62e998f332850ea2a3241585;Will begin refactoring {{guest_lookup_lookup.js}} for performance as additional queries/searches/record loads were added. Will also be testing and documenting test results for deployment process.,"23/Nov/22 10:39 AM;62e998f332850ea2a3241585;*NOTE ABOUT Credit Card Provider Name and Brand image*: This data is not included in {{guest_order_lookup.js}} return data. Dev working on SOL payment details front-end will need to obtain this from existing service.
+
+This is due to complexities of getting this through NS and the fact that a service already exists that is getting this data/asset.","02/Dec/22 9:04 AM;62e998f332850ea2a3241585;Working on solution to tracking number/item fulfillment issue: what causes multiple trackings to become concatted strings in item fulfillment? Appears to be when trackingNumbers are entered into the “tracking numbers (comma separated list)” field in netsuite item fullment screen. 
+
+Currently researching this. Everything else needed for this story has been added to query.","05/Dec/22 11:08 AM;62e998f332850ea2a3241585;Example data *containing returns* data response from {{guest_order_lookup.js }}script attached. [~accountid:5fcfc4c934847e0069dd9e0b] 
+
+[^sol-WB4592648992-has-returns.json]
+
+","05/Dec/22 11:22 AM;62e998f332850ea2a3241585;Example data *containing items with and without tracking numbers.* [~accountid:5fcfc4c934847e0069dd9e0b] 
+
+*NOTE:* {{packageCount}} is 4 while there are 6 items with unique tracking numbers - this demonstrates script being able to handle cases where one package has multiple tracking numbers (edge case), as well as being able to join sales order items and tracking numbers across variety of item fulfillment/package scenarios.
+
+[^sol-WB2849562418-items-with-and-without-tracking.json]
+
+",05/Dec/22 11:26 AM;5fcfc4c934847e0069dd9e0b;[~accountid:62e998f332850ea2a3241585] thank you,"05/Dec/22 11:54 AM;62e998f332850ea2a3241585;Currently doing thorough testing of possible scenarios particularly re tracking numbers, packages, fulfillments etc.
+
+Have discovered and working on regression with changes last friday where only first item in package/fulfillment is getting tracking number. ","07/Dec/22 12:03 PM;62e998f332850ea2a3241585;Tested that data returned from NS looks good. Example response from final version of script updates for {{guest_order_lookup.js}}
+
+[^guest_order_lookup-sol-response (6a2c2444-3f08-423a-b321-0e6fb3e173d7).json]
+
+","07/Dec/22 12:08 PM;62e998f332850ea2a3241585;*Transaction Permissions required for script in prod (adds are bold):* 
+
+* Find Transaction
+* *Fulfill Orders*
+* *Item Fulfillment*
+* *Return Authorization*
+* *Sales Order*
+
+*List Permissions required for script in prod (adds are bold):* 
+
+* Item
+* *Account*",07/Dec/22 1:36 PM;62e998f332850ea2a3241585;Opened deployment ticket in samanage. evidence of testing below,"07/Dec/22 2:18 PM;62e998f332850ea2a3241585;guest_order_lookup.js response data types
+
+[^single-order-lookup.d (7ab612a9-3e10-47a7-b6b1-271d249def59).ts]
+
+","19/Dec/22 1:50 PM;62e998f332850ea2a3241585;Spoke with NS team, who suggested deployment of script be postponed until after holidays given complexity and holdiays creating risk.","30/Dec/22 1:34 PM;62e998f332850ea2a3241585;Found and fixed bug that causes error to return when a package exists without a tracking number. Though this scenario is an edge case (i found it when accidentally saving an item fulfillment without removing an unused package that was meant to be removed), it would’ve prevented any data from returning. 
+
+Now, if a package is found in a fulfillment and doesn’t have a tracking (which would be user error when fulfilling), the tracking number will return with an empty string (as opposed to null if no tracking has been assigned).",03/Jan/23 1:43 PM;62e998f332850ea2a3241585;NS Analyst assigned to deployment is OOO until next week. Will follow up then.,"12/Jan/23 4:07 PM;62e998f332850ea2a3241585;Met with a couple members of NS team, discussed the script, permissions, risk, etc. Needed PR reapproved due to fix that was pushed recently; was not able to get the approves in time to deploy Thursday. Setting up meeting to deploy for Monday.","16/Jan/23 11:25 AM;62e998f332850ea2a3241585;Script deployed to prod, passed validation using test order. 
+
+!image-20230116-172453.png|width=828,height=1087!",,,Done
+Create order tracking FE store,GET-203,176938,,Task,Done,GET,Get Team,software,Luke Bahrou,6317c5c155b0a9e29f1c2577,,,Medium,,Jake Hamilton,62e998f332850ea2a3241585,Joe Fang,5fcfc4c934847e0069dd9e0b,Joe Fang,5fcfc4c934847e0069dd9e0b,1/3/23 23:58,1/27/23 13:35,1/25/23 9:21,,2023.01.25,,1/23/23 0:00,1,,,,"Currently, we handle the order detail data on the page level, which cause some issues like could not preserve data with the browser back button.
+
+and since we are going to refactor the track order page to support {{Link to Order Lookup from Order Emails}} a  shared  store state management is needs there
+
+
+1. Create the store no need to mount to the component yet
+2. Use pinia instead of Vuex
+3. unit test.
+
+POC code: [https://bitbucket.org/zorotools/%7B03269ff8-c66c-4990-a44c-56a25db86d1d%7D/pull-requests/11096#chg-web/static/vue/pinia/orderTracking.ts|https://bitbucket.org/zorotools/%7B03269ff8-c66c-4990-a44c-56a25db86d1d%7D/pull-requests/11096#chg-web/static/vue/pinia/orderTracking.ts|smart-link]
+
+
+No manual QA needs. No E2E test needs
+",,Andre Alforque,Jake Hamilton,Joe Fang,,,,,,,,,,,,557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f,62e998f332850ea2a3241585,5fcfc4c934847e0069dd9e0b,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,"Environment
+- Dataset Name:
+
+- Dataset Workspace:
+
+- DAG Name (Optional):
+
+- Data Source:
+
+- Systems affected (Looker, SFMC,.,.):
+
+- Business Impact:
+
+Precondition
+ -
+
+Steps to reproduce
+ -
+
+Current behavior
+ -
+
+Expected behavior
+ -",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"As a 
+
+I want to 
+
+so that",,,,,,,"{pullrequest={dataType=pullrequest, state=OPEN, stateCount=1}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":1,""lastUpdated"":""2023-02-08T18:35:41.280-0600"",""stateCount"":1,""state"":""OPEN"",""dataType"":""pullrequest"",""open"":true},""byInstanceType"":{""bitbucket"":{""count"":1,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,"As a
+
+I want to
+
+So that 
+
+Stakeholders
+Business Owner: 
+
+Technical Owner: 
+
+Technical Product Owner: 
+
+Platform Architect/Lead Engineer: 
+
+Data Engineer(s): TBD
+
+Problem Statement(s)
+ -
+ -
+ 
+
+In Scope
+ -
+ -
+Out of Scope
+ -
+ -
+Details
+ -",GET-196,Link to Order Lookup from Order Emails,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,Yes,,,,,,1|hzzm2n:,,,,,,,,,,,,,,,,,Vendor,,,,,,,,,,,,,,1/12/23 21:50,,,,,,,,,,,,,,,,,,,,,,"As a 
+
+I want to (explore/research/discover/design)
+
+So that ",,GET Sprint 2023.A,GET Sprint 2023.B,,,,,,1/12/23 0:00,,"As a 
+
+
+I want to 
+
+
+so that",3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"No manual QA and E2E test for this. Only need dev PR review
+
+This will not deliver any change to the customer until the other ticket finished",,,,,,,,,,,,,,,,No,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,,A new component,,,,"Scenario #1
+Given <<precondition>>
+When <<action>>
+Then <<result>>
+
+Scenario #2 
+Given <<precondition>>
+When <<action>>
+Then <<result>>",,,,,,48:23.5,04/Jan/23 9:48 AM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;Work with [~accountid:5fcfc4c934847e0069dd9e0b] for more information; note: unit test doesn’t exist. Create FE store; do not create mount yet. ,"12/Jan/23 4:01 PM;62e998f332850ea2a3241585;created basic pinia store, got some mock data together for unit tests",18/Jan/23 11:50 AM;62e998f332850ea2a3241585;Finished unit tests,"18/Jan/23 11:55 AM;62e998f332850ea2a3241585;Per reqs for [get-197|https://zorotools.atlassian.net/browse/GET-197], need to add functionality to handle/store orders without tracking (where current orderStore throws error if no tracking). will also add some getters for derived values (ie {{hasTracking}} prop) and for accessing state props directly without exposing store state object (which is mutable).","19/Jan/23 9:49 AM;62e998f332850ea2a3241585;included handling of orders without tracking in getOrder, updated tests.",23/Jan/23 4:21 PM;62e998f332850ea2a3241585;Merged PR to dev; per [~accountid:5fcfc4c934847e0069dd9e0b] transitioned ticket to done.,,,,,,,,,,,,,,,,,,,,,Done
+Order Lookup Page - Layout/Design Changes,GET-123,172071,,User Story,Done,GET,Get Team,software,Luke Bahrou,6317c5c155b0a9e29f1c2577,,,Medium,Done,Joe Fang,5fcfc4c934847e0069dd9e0b,Luke Bahrou,6317c5c155b0a9e29f1c2577,Luke Bahrou,6317c5c155b0a9e29f1c2577,10/26/22 9:30,1/20/23 16:04,1/19/23 17:16,1/17/23 13:44,2023.01.16,now,1/20/23 0:00,0,,,,"h2. Story
+
+As a guest user looking to find more information about an order I placed, I want an order lookup experience that gives me information about my entire order so that I know “where” the order is after it has been fulfilled. 
+
+h2. Final Designs
+
+[https://www.figma.com/file/RaDGnVHz6qYqyRTZtqDLyW/Order-Tracking?node-id=1433%3A52812|https://www.figma.com/file/RaDGnVHz6qYqyRTZtqDLyW/Order-Tracking?node-id=1433%3A52812|smart-link]
+
+h2. Details
+
+Generally, the Order Lookup page is being reformatted to include the following information/updates:
+
+# Order Number/Date/Status
+# Line item details (if multiple lines, order of lines is arbitrary)
+# Design changes that group line items by tracking information
+# Order Summary section (Order totals, shipping/billing addresses, payment methods, etc.
+
+Full details in the designs linked above*
+
+h3. Approach
+
+* Create and document API contract
+* Order chronologically by ship date (we don’t have estimated delivery yet)
+
+h3. Notes
+
+* {color:#36b37e}No tracking numbers available?{color} Currently, not allowing customer to view page for shipments without any tracking numbers despite data being available; customer remains on form. If at least one tracking number exists, the page is displayed. 
+
+h3. Test Cases (proposal)
+
+* Order with 0 tracking numbers. Need to decide how to handle…? [~accountid:5e66556bae59460cfb019234] 
+* Customer orders 2 DPD items from separate vendors. Both shipments are fulfilled, but only the first shipped (oldest shipped date) container appears ({color:#ff5630}known upstream defect{color}). 
+* Mixed shipping {color:#ff5630}needs to be detailed into Test Cases; please work with {color}[~accountid:62e998f332850ea2a3241585]  and [~accountid:6317c5c155b0a9e29f1c2577] . 
+** [https://docs.google.com/document/d/1GThZ_ska6HUBj8m2pAIcGi5El2gM59HOg6O-Qg1ntkg/edit?usp=sharing|https://docs.google.com/document/d/1GThZ_ska6HUBj8m2pAIcGi5El2gM59HOg6O-Qg1ntkg/edit?usp=sharing|smart-link]
+
+h2. Other Parts of Customer Experience
+
+# [https://zorotools.atlassian.net/browse/GET-127|https://zorotools.atlassian.net/browse/GET-127|smart-link]  Data & Contract 
+# [https://zorotools.atlassian.net/browse/GET-126|https://zorotools.atlassian.net/browse/GET-126|smart-link]  Logic to group products by Tracking Number
+# Design ticket
+# [https://zorotools.atlassian.net/browse/GET-125|https://zorotools.atlassian.net/browse/GET-125|smart-link]  Show/Hide Logic and Accordion
+
+h2. Notes
+
+h3. {color:#006644}*_Test Notes_*{color}
+
+# *Find A Different Order* link added beneath breadcrumbs
+# *Find A Different Order* links back to [https://www.zoro.com/customer-service/track-my-order|https://www.zoro.com/customer-service/track-my-order|smart-link]
+# *Narvar widget* links to Narvar; just tracking (_widget doesn’t include tracking number beneath; no returns on this ticket_)
+# {color:#97a0af}-Narvar widget should be the size that they provide. I believe the existing image is 195px x 360px (collaborate with Morghan on this)-{color} {color:#403294}*_already passed visual QA_*{color}
+# Tracking # links to Narvar
+# The product image and product title should link to the PDP
+# _Sign In should open the sign in modal as it does on the current page. This may change in the near future with the Manage test (regression)_
+# _Create Account button should also open the modal as it does today. (regression)_
+# (Sequencing of items listed on *Order* page) On mobile, the *Order Summary* container billing should fall into place below the “{color:#0747a6}*Have An Account?*{color}” block. _Content is the same as desktop._ 
+# If there is more than one tracking number, the first item(s) to ship should be the first on the page. Sequence = item with soonest ship date at the top
+# In the *Order Summary* box, verify the proper credit card brand is displayed.  
+# In the *Order Summary* box, verify the carrier is correct. (UPS, USPS, FedEx)
+# Possible edge cases re: fulfillment if products share tracking numbers _(see Test Cases proposal above)_","get-a 
+[https://geta-www.zoro.com/|https://geta-www.zoro.com/]
+
+LD Flag: temp-Order-Lookup-Page-new-design-GET-143",Andre Alforque,Basent Ismail,Giovanni Portogallo,Jake Bewley,Jake Hamilton,James Crouch,Jared Smith,Joe Fang,Kaylee Carlson,Kris Knapczynski,Luke Bahrou,Melanie Maerz,Morghan Buhrman,Vince Hetet,557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f,60c2513ea1746300709b6b22,6140bdb032c0cb006a8974c4,5e7a29b9dde7030c4f153020,62e998f332850ea2a3241585,5cd9cea04305dc0dc7a11b58,627d65e49bb6600069962ae0,5fcfc4c934847e0069dd9e0b,5ec6d5e620ff300c1e3b854a,5e3072213bdc3a0ca55f2f5b,6317c5c155b0a9e29f1c2577,62ed880ae50f2f2a3955cd52,5e66556bae59460cfb019234,63127a79ea661fd37d4f6638,,,,,,,,,,,,,,GET-197,GET-196,GET-202,,,,DAIS-867,GET-127,GET-126,GET-125,,,GET-191,,GET-177,,GET-195,GET-194,,,,,18/Jan/23 9:35 AM;ug:060112c6-99aa-434b-a694-6fd33127aace;image-20230118-153423.png;https://zorotools.atlassian.net/secure/attachment/109945/image-20230118-153423.png,18/Jan/23 9:35 AM;ug:060112c6-99aa-434b-a694-6fd33127aace;image-20230118-153440.png;https://zorotools.atlassian.net/secure/attachment/109944/image-20230118-153440.png,18/Jan/23 9:35 AM;ug:060112c6-99aa-434b-a694-6fd33127aace;image-20230118-153504.png;https://zorotools.atlassian.net/secure/attachment/109942/image-20230118-153504.png,18/Jan/23 9:35 AM;ug:060112c6-99aa-434b-a694-6fd33127aace;image-20230118-153527.png;https://zorotools.atlassian.net/secure/attachment/109943/image-20230118-153527.png,,,,,,,,,,,,,"1. Find A Different Order link added beneath breadcrumbs
+2. Find A Different Order links back to https://www.zoro.com/customer-service/track-my-order
+
+3. Narvar widget links to Narvar
+4. Narvar widget should be the size that they provide. I believe the existing image is 195px x 360px (collaborate with Morghan on this)
+5. Tracking # links to Narvar
+6. The product image and product title should link to the PDP
+7. Sign In should open the sign in modal as it does on the current page. This may change in the near future with the Manage test
+Create Account button should also open the modal as it does today. 
+8. On mobile the Order Summary container should fall into place below the “Have An Account?” block 
+9. If there is more than one tracking number, the first item(s) to ship should be the first on the page. Order = soonest ship date at the top
+",,,,,,,,,,,,,YES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=2}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":2,""lastUpdated"":""2023-01-16T14:29:04.005-0600"",""stateCount"":2,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":2,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,12/14/22 15:18,,,,,,,,,,,,,GET-18,Improve Order Lookup Experience,,,,,,,,,,,In Progress,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,YES,Giovanni Portogallo,6140bdb032c0cb006a8974c4,Yes,,,,,,1|hzza2f:,,,,,"Improved Order Lookup Design and Experience
+Grouping Items in Order by Tracking Number",,,,,,,,,,,,Vendor,,,,,,,,,,,,,,12/14/22 15:21,,,,,,,,,,,,,,,,,,,,,,,,GET Sprint 2022.Y,GET Sprint 2022.Z,GET Sprint 2023.A,,,,,,,,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,,,,,,,,,,,,,,YES,,,,,,,,,,,,,,,A new component,,,,,,,,,,57:09.6,02/Nov/22 9:57 AM;63127a79ea661fd37d4f6638;if this is the first story of this feature we should add the feature flag as part of this story,"11/Nov/22 1:34 PM;5e7a29b9dde7030c4f153020;From [~accountid:63127a79ea661fd37d4f6638] , be cautious of updating the response data structure/contract to ensure current/V1 functionality does not break.","16/Nov/22 11:01 AM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;[~accountid:5e66556bae59460cfb019234]  How to handle order with 0 tracking numbers?
+
+Currently, “error” on form. ",07/Dec/22 9:23 AM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;Order Details with grouped tracking numbers. ,"19/Dec/22 9:30 AM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;Surcharge - split from Manage refactor to align with Zoro standard just implemented by Buy; (Authenticated) Account Order History and Guest Order Lookup. 
+
+ [~accountid:5fcfc4c934847e0069dd9e0b] to create new ticket to assure align with Aaron and Nikki. ","19/Dec/22 1:16 PM;5fcfc4c934847e0069dd9e0b;Ready for the Code review. and Visual QA
+
+Keep working the E2E test","19/Dec/22 1:34 PM;5fcfc4c934847e0069dd9e0b;[~accountid:5e66556bae59460cfb019234] 
+Ready for Visual QA on buy-a
+LD Flag: temp-Order-Lookup-Page-new-design-GET-143
+
+Test order we have: 
+{{WB1172321712}}
+{{jake.hamilton+4@zoro.com}}
+
+
+",19/Dec/22 5:23 PM;5e66556bae59460cfb019234;VQA doc: [https://docs.google.com/spreadsheets/d/1Y-HXp2QWZZeQkogoBz_8IQDLPt6P754OBa1G1ox6QM4/edit?usp=sharing|https://docs.google.com/spreadsheets/d/1Y-HXp2QWZZeQkogoBz_8IQDLPt6P754OBa1G1ox6QM4/edit?usp=sharing|smart-link],27/Dec/22 9:19 AM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;Analytics will be separate ticket; [~accountid:5fcfc4c934847e0069dd9e0b] Please carry over [https://zorotools.atlassian.net/browse/DAIS-867|https://zorotools.atlassian.net/browse/DAIS-867|smart-link] ,"28/Dec/22 11:33 AM;62ed880ae50f2f2a3955cd52;{color:#ff5630}*NOTE* {color}(JF): *E2E* test has been added in the PR too, please review, especially for possible missing edge cases.","03/Jan/23 2:47 PM;6140bdb032c0cb006a8974c4;Test orders: 
+
+{{{ 2 orderNumber: 'WB9361247195', 3 email: 'jake.hamilton+1@zoro.com', 4 cardBrand: 'mastercard', 5 hasReturn: true, 6 tracking: { 7 carrier: 'ups', 8 number: '1Z001985YW90838348' 9 }, 10 }, 11 { 12 orderNumber: 'WB8716195432', 13 email: 'jake.hamilton+1@zoro.com', 14 cardBrand: 'discover', 15 hasReturn: false, 16 tracking: { 17 carrier: 'usps', 18 number: '9400100000000000000000' 19 }, 20 }, 21 { 22 orderNumber: 'WB8587166368', 23 email: 'jake.hamilton+1@zoro.com', 24 cardBrand: 'visa', 25 hasReturn: false, 26 tracking: { 27 carrier: 'fedex', 28 number: '999999999999999' 29 }, 30 }}}",09/Jan/23 1:55 PM;6140bdb032c0cb006a8974c4;[~accountid:62e998f332850ea2a3241585] Confirmed that 2 DPD items and mixed shipping test causes are identical and can be covered in a single test case.,10/Jan/23 9:34 AM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;[~accountid:6317c5c155b0a9e29f1c2577] QA requests that you perform UAT now. This is to accelerate launch of the ticket to Production because it blocks further work being released. ,"12/Jan/23 3:06 AM;62ed880ae50f2f2a3955cd52;[~accountid:62e998f332850ea2a3241585] [~accountid:5fcfc4c934847e0069dd9e0b] [~accountid:6317c5c155b0a9e29f1c2577] Basic QA functional testing is complete; moved to UAT, assigned to Luke. Thank you!",12/Jan/23 9:23 AM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;[~accountid:62e998f332850ea2a3241585] verify Test Cases above are sufficient. CC: [~accountid:6317c5c155b0a9e29f1c2577] ,"12/Jan/23 12:32 PM;62ed880ae50f2f2a3955cd52;*TC 2 Order Info:* {color:#403294}*WB9832113316*{color}
+SO25419641: 4 items total; plus freight surcharge
+PO 35373243: not fulfilled/not shipped
+PO 35373244: not fulfilled/not shipped
+PO 35373245: not fulfilled/not shipped
+
+*TC 3 Order Info:* {color:#403294}*WB2625378975*{color}
+SO25419768: 1 item
+PO 35373300: item fulfilled and shipped 01.12.2023; UPS 1Z1254785214521478
+
+*TC4 Order Info:* {color:#403294}*WB7767839981*{color}
+SO25419748: 4 items total; plus freight surcharge
+PO 35373288  item G0988745 fulfilled and shipped 01.10.2023; UPS 1Z24957X0598142980
+PO 35373289: items G2813124 and G2882914 not fulfilled/not shipped
+PO 35373290 : item G3783217 fulfilled and shipped 01.11.2023; USPS 9205500000000000000001
+
+*TC 5 Order Info:* {color:#403294}*WB6584342417*{color}{color:#403294} {color}
+SO25420014: 1 item
+PO 35373373: not fulfilled/not shipped",12/Jan/23 1:15 PM;62e998f332850ea2a3241585;Reviewed the results for TC4 and the sales order/data - the scenario and configuration of order/fulfillments/items for the sales order suffice.,"18/Jan/23 9:35 AM;5fcfc4c934847e0069dd9e0b;temp-Order-Lookup-Page-new-design-GET-143 has been turned on prod, staging, dev, and QA.
+
+
+
+!image-20230118-153423.png|width=648,height=246!
+
+!image-20230118-153440.png|width=645,height=281!
+
+!image-20230118-153504.png|width=645,height=270!
+
+!image-20230118-153527.png|width=649,height=274!
+
+
+",,,,,,,,,Done
+Create test Order on low env for the QA,GET-194,176224,172165,Sub-task,Done,GET,Get Team,software,Luke Bahrou,6317c5c155b0a9e29f1c2577,,,Medium,,Jake Hamilton,62e998f332850ea2a3241585,Joe Fang,5fcfc4c934847e0069dd9e0b,Joe Fang,5fcfc4c934847e0069dd9e0b,12/19/22 12:07,1/17/23 15:47,2/9/23 9:03,,,,12/30/22 0:00,1,,,,"Need include:
+1. item has been shipped
+2. item has not  been shipped yet
+3. surcharge items (Generator)
+4. Include all carriers: UPS, USPS, FEDX, UNKnown
+
+
+
+
+test cases:
+
+{noformat}  {
+    orderNumber: 'WB9361247195',
+    email: 'jake.hamilton+1@zoro.com',
+    cardBrand: 'mastercard',
+    hasReturn: true,
+    tracking: {
+      carrier: 'ups',
+      number: '1Z001985YW90838348'
+    },
+  },
+  {
+    orderNumber: 'WB8716195432',
+    email: 'jake.hamilton+1@zoro.com',
+    cardBrand: 'discover',
+    hasReturn: false,
+    tracking: {
+      carrier: 'usps',
+      number: '9400100000000000000000'
+    },
+  },
+  {
+    orderNumber: 'WB8587166368',
+    email: 'jake.hamilton+1@zoro.com',
+    cardBrand: 'visa',
+    hasReturn: false,
+    tracking: {
+      carrier: 'fedex',
+      number: '999999999999999'
+    },
+  }{noformat}",,Jake Hamilton,Joe Fang,,,,,,,,,,,,,62e998f332850ea2a3241585,5fcfc4c934847e0069dd9e0b,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GET-123,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Environment
+- Dataset Name:
+
+- Dataset Workspace:
+
+- DAG Name (Optional):
+
+- Data Source:
+
+- Systems affected (Looker, SFMC,.,.):
+
+- Business Impact:
+
+Precondition
+ -
+
+Steps to reproduce
+ -
+
+Current behavior
+ -
+
+Expected behavior
+ -",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"As a 
+
+I want to 
+
+so that",,,,,,,{},,,,,,,,,,,,,,,"As a
+
+I want to
+
+So that 
+
+Stakeholders
+Business Owner: 
+
+Technical Owner: 
+
+Technical Product Owner: 
+
+Platform Architect/Lead Engineer: 
+
+Data Engineer(s): TBD
+
+Problem Statement(s)
+ -
+ -
+ 
+
+In Scope
+ -
+ -
+Out of Scope
+ -
+ -
+Details
+ -",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,,,,,,1|hzzkwv:,,,,,,,,,,,,,,,,,Vendor,,,,,,,,,,,,,,12/21/22 15:35,,,,,,,,,,,,,,,,,,,,,,"As a 
+
+I want to (explore/research/discover/design)
+
+So that ",,GET Sprint 2022.W,GET Sprint 2022.Y,GET Sprint 2022.Z,GET Sprint 2023.A,,,,12/21/22 0:00,,"As a 
+
+
+I want to 
+
+
+so that",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A new component,,,,"Scenario #1
+Given <<precondition>>
+When <<action>>
+Then <<result>>
+
+Scenario #2 
+Given <<precondition>>
+When <<action>>
+Then <<result>>",,,,,,21:17.4,"29/Dec/22 4:21 PM;62e998f332850ea2a3241585;Created 4 orders, one for each carrier/tracking format, each with items with varying fulfillment dates.
+
+
+
+Need to look into surcharge","30/Dec/22 12:35 PM;62e998f332850ea2a3241585;The below orders have multiple fulfillments and packages using different carriers.
+
+
+
+{noformat}  {
+    orderNumber: 'WB9361247195',
+    email: 'jake.hamilton+1@zoro.com',
+    cardBrand: 'mastercard',
+    hasReturn: true,
+    tracking: {
+      carrier: 'ups',
+      number: '1Z001985YW90838348'
+    },
+  },
+  {
+    orderNumber: 'WB8716195432',
+    email: 'jake.hamilton+1@zoro.com',
+    cardBrand: 'discover',
+    hasReturn: false,
+    tracking: {
+      carrier: 'usps',
+      number: '9400100000000000000000'
+    },
+  },
+  {
+    orderNumber: 'WB8587166368',
+    email: 'jake.hamilton+1@zoro.com',
+    cardBrand: 'visa',
+    hasReturn: false,
+    tracking: {
+      carrier: 'fedex',
+      number: '999999999999999'
+    },
+  }{noformat}",,,,,,,,,,,,,,,,,,,,,,,172165,Grouping Line Items by Tracking Number,Done
+Grouping Line Items by Tracking Number,GET-126,172165,,Tech Discovery,Done,GET,Get Team,software,Luke Bahrou,6317c5c155b0a9e29f1c2577,,,Medium,,Jake Hamilton,62e998f332850ea2a3241585,Luke Bahrou,6317c5c155b0a9e29f1c2577,Luke Bahrou,6317c5c155b0a9e29f1c2577,10/26/22 20:45,1/16/23 11:27,2/8/23 16:25,,now,,1/16/23 0:00,1,,,,"The updated design for the Order Lookup page is dependent on the ability to group line items by tracking number. It is unknown how the grouping of line items on the frontend would best be achieved.
+
+Currently, we know that line item information that is passed to the frontend on this page includes the tracking number at the line item level.
+
+!Screen Shot 2022-10-26 at 9.33.43 PM.png!
+
+h3. Goal
+
+Decide on an approach to formatting tracking number and line item data to allow for the desired grouping on the Order Lookup page. 
+
+h3. Approach
+
+Work with QA to define list of scenarios to handle in Data. 
+
+[https://docs.google.com/document/d/1GThZ_ska6HUBj8m2pAIcGi5El2gM59HOg6O-Qg1ntkg/edit?usp=sharing|https://docs.google.com/document/d/1GThZ_ska6HUBj8m2pAIcGi5El2gM59HOg6O-Qg1ntkg/edit?usp=sharing|smart-link]
+
+Output: Work with XD to inform designs for edge cases (example: Single Fulfillment, multiple tracking numbers)
+
+h3. Edge Cases
+
+# Single Order, Multiple Shipments, Tracking Numbers not Associated to Line Items
+# Single Order, Multiple DPD Shipments, Only one Tracking Number Received
+# Single Order, Grainger AND DPD Shipments
+
+h3. Note
+
+* {color:#ff5630}Known defect{color}: UPS is hardcoded in return URL. We are not fixing this as it has no current impact. ",,Andre Alforque,Jake Hamilton,Luke Bahrou,,,,,,,,,,,,557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f,62e998f332850ea2a3241585,6317c5c155b0a9e29f1c2577,,,,,,,,,,,,,,,,,,,,,,,,,GET-125,,,,,GET-123,,,,,,,,,,,,,,,,,27/Oct/22 1:56 PM;alforque;Screen Shot 2022-10-18 at 2.46.30 PM.png;https://zorotools.atlassian.net/secure/attachment/104986/Screen+Shot+2022-10-18+at+2.46.30+PM.png,26/Oct/22 8:45 PM;6317c5c155b0a9e29f1c2577;Screen Shot 2022-10-26 at 9.33.43 PM.png;https://zorotools.atlassian.net/secure/attachment/104918/Screen+Shot+2022-10-26+at+9.33.43+PM.png,27/Oct/22 1:56 PM;alforque;Screen Shot 2022-10-27 at 1.25.47 PM.png;https://zorotools.atlassian.net/secure/attachment/104987/Screen+Shot+2022-10-27+at+1.25.47+PM.png,27/Oct/22 1:56 PM;alforque;Screen Shot 2022-10-27 at 1.45.11 PM.png;https://zorotools.atlassian.net/secure/attachment/104988/Screen+Shot+2022-10-27+at+1.45.11+PM.png,16/Jan/23 11:26 AM;62e998f332850ea2a3241585;image-20230116-172645.png;https://zorotools.atlassian.net/secure/attachment/109770/image-20230116-172645.png,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,,,,,,GET-18,Improve Order Lookup Experience,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,Yes,,,,,,1|hzynof:,,,,,,,,,,,,,,,,,Vendor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GET Sprint 2022.W,GET Sprint 2022.Y,GET Sprint 2022.Z,GET Sprint 2023.A,,,,11/15/22 0:00,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,,A new component,,,,,,,,,,56:06.5,"27/Oct/22 1:56 PM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;If NS is considered current source-of-truth, I'd question the following statement.
+
+{quote}Currently, we know that line item information that is passed to the frontend on this page includes the tracking number at the line item level.{quote}
+
+context: nothing in NetSuite ties line items to tracking number if the Order Fulfillment contains multiple tracking numbers. 
+
+ref: [Sales Order #SO25880164|https://1326902.app.netsuite.com/app/accounting/transactions/salesord.nl?id=323247164]; [Item Fulfillment #27524225|https://1326902.app.netsuite.com/app/accounting/transactions/itemship.nl?whence=&id=323325145]
+
+!Screen Shot 2022-10-27 at 1.45.11 PM.png|width=1405,height=388!
+
+!Screen Shot 2022-10-18 at 2.46.30 PM.png|width=1457,height=869!
+
+!Screen Shot 2022-10-27 at 1.25.47 PM.png|width=1387,height=1184!",27/Oct/22 2:08 PM;6317c5c155b0a9e29f1c2577;This Sales Order links line items to packages and tracking numbers: [+Sales Order #SO28255286+|https://1326902.app.netsuite.com/app/accounting/transactions/salesord.nl?id=342879143],16/Nov/22 9:22 AM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;Note: Guest Order Returns do *not* link. ,17/Nov/22 9:23 AM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;Further edge cases to be documented. ,18/Nov/22 9:22 AM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;Array of Arrays of tracking numbers. ,"23/Nov/22 12:54 PM;62e998f332850ea2a3241585;Data returned from {{guest_order_lookup.js}} will now include the following data structures: 
+
+*  {{itemsByTrackingNumber}}: An array/set of 2-tuple arrays coupling unique tracking number to a list of sales order items associated with that number. The set is sorted by shipDate ascending.
+*  {{itemsWithoutTracking}}: An unordered array/list of sales order items not associated with a tracking number.
+
+*NOTE*: In order to continue supporting current track my order functionality while new flow is in development, there will be some temporary redundancy in data between new properties above and the existing {{items}} property containing simple array of the same items.",30/Nov/22 9:19 AM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;Example fulfillment from Alex (item fulfillment = multiple packages) returned concatenated tracking numbers. Investigating. Investigate each package for an item to assign product to package. ,"01/Dec/22 9:20 AM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;* [Prod] How are tracking numbers created in Production? 
+* [SB2] Create test orders with varying fulfillment methods. ","02/Dec/22 9:05 AM;62e998f332850ea2a3241585;Working on solution to tracking number/item fulfillment issue: what causes multiple trackings to become concatted strings in item fulfillment? Appears to be when trackingNumbers are entered into the “tracking numbers (comma separated list)” field in netsuite item fullment screen. 
+
+Currently researching this. Everything else needed for this story has been added to query.","05/Dec/22 9:21 AM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;Still testing various edge-case scenarios, but will put into PR. ","06/Dec/22 9:22 AM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;Slack convo. + call with #netsuite / Michael Mulkey to discuss usage of comma-separated list of tracking numbers. CSV not used outside NS. 
+
+Determine order to test when put into production. Avoid possible validation errors. ","07/Dec/22 12:11 PM;62e998f332850ea2a3241585;See [https://zorotools.atlassian.net/browse/GET-127|https://zorotools.atlassian.net/browse/GET-127|smart-link] for details and progress. Item grouping is complete, moving script through PR and deployment process.","03/Jan/23 1:18 PM;62e998f332850ea2a3241585;test cases:
+
+{noformat}  {
+    orderNumber: 'WB9361247195',
+    email: 'jake.hamilton+1@zoro.com',
+    cardBrand: 'mastercard',
+    hasReturn: true,
+    tracking: {
+      carrier: 'ups',
+      number: '1Z001985YW90838348'
+    },
+  },
+  {
+    orderNumber: 'WB8716195432',
+    email: 'jake.hamilton+1@zoro.com',
+    cardBrand: 'discover',
+    hasReturn: false,
+    tracking: {
+      carrier: 'usps',
+      number: '9400100000000000000000'
+    },
+  },
+  {
+    orderNumber: 'WB8587166368',
+    email: 'jake.hamilton+1@zoro.com',
+    cardBrand: 'visa',
+    hasReturn: false,
+    tracking: {
+      carrier: 'fedex',
+      number: '999999999999999'
+    },
+  }{noformat}","16/Jan/23 11:26 AM;62e998f332850ea2a3241585;guest order lookup script deployed to prod and passed validation using test order.
+
+!image-20230116-172645.png|width=828,height=1087!",,,,,,,,,,,,,Done
+[ADA2] Payment detail review,MANAGE-72,131155,,User Story,To Do,MANAGE,Manage Team,software,Aaron Cox,5ce302b809f2de0dc7505ba8,,,Medium,,,,Andre Alforque,557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f,Andre Alforque,557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f,8/26/21 16:25,1/10/23 9:18,11/14/22 12:56,,,,,1,[ADA2],Development,OKR-accessibility,"Payment detail page using the SiteImprove plugin, and document any issues aligning to AA compliance level in the [Vue BGM accessibility audit spreadsheet|https://docs.google.com/spreadsheets/d/1kW_XThWHYuT1PcT_QYV3vAZxaDMtBodAdwUtsTc8Ah8/edit?usp=sharing].
+
+Issues
+
+|*Link without a text alternative*
+Links should always have a text alternative. The link text can be inserted into the HTML — it does not need to be visible to pass this check.|
+|*Element IDs are not unique*
+Two or more elements on this page have the same id value. These should be unique.|
+|*Page zoom is restricted*
+The viewport element on this page prevents users from zooming in or scaling text content.|
+|*Color contrast is not sufficient*
+Text on this page does not meet WCAG minimum color-contrast requirements.|
+|*Skip to main content link is missing*
+The first item reached by keyboard should be a link to the main content of the page. This link should be visible when receiving focus from the keyboard.|
+
+*Recommendations*
+
+|Provide a text alternative for the link|
+|Make sure all id values are unique within the page|
+|Allow text to be scaled to at least 200%.|
+|Increase the color contrast to 4.5 or higher.|
+|Add a ""skip to main content"" link at the top of the page. Make sure it's visible when receiving focus.|",,Jake Hamilton,,,,,,,,,,,,,,62e998f332850ea2a3241585,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUYGET-1767,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,,,,,,MANAGE-51,ADA2 Audit Delivery Work,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,1|hzzmcv:,,,,,,,,,,,,,,,,,Vendor,,,,,,,,,,,,,,10/10/22 17:32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A new component,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do
+[ADA2] Data Rights Request (Clarip) Do Not Sell My Personal Information review,MANAGE-57,131146,,User Story,To Do,MANAGE,Manage Team,software,Aaron Cox,5ce302b809f2de0dc7505ba8,,,Medium,,,,Andre Alforque,557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f,Andre Alforque,557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f,8/26/21 16:24,1/10/23 9:18,11/14/22 12:56,,,,,1,[ADA2],Development,OKR-accessibility,"[Data Rights Request (Clarip) Do Not Sell My Personal Information|https://zoro.clarip.com/dsr/create] page using the SiteImprove plugin, and document any issues aligning to AA compliance level in the [Vue BGM accessibility audit spreadsheet|https://docs.google.com/spreadsheets/d/1kW_XThWHYuT1PcT_QYV3vAZxaDMtBodAdwUtsTc8Ah8/edit?usp=sharing].
+
+*Issue Description*
+
+|*Element IDs are not unique*
+Two or more elements on this page have the same id value. These should be unique.|
+|*Text not included in an ARIA landmark*
+All perceivable text content should be included in an ARIA landmarkhttps://www.w3.org/TR/wai-aria-practices/examples/landmarks/index.html opens in a new window.
+Perceivable text content refers to text that can be perceived by users of assistive technology — some of which may be invisible to sighted users.|
+
+*Recommendations*
+
+|Make sure all id values are unique within the page.|
+|Ensure all perceivable text is included in an ARIA landmark.|",,Jake Hamilton,,,,,,,,,,,,,,62e998f332850ea2a3241585,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUYGET-1777,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,,,,,,MANAGE-51,ADA2 Audit Delivery Work,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,1|hzzmbz:,,,,,,,,,,,,,,,,,Vendor,,,,,,,,,,,,,,10/10/22 17:32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A new component,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do
+Account Name & Customer # in Flyout Should Link to My Account,GET-117,169762,,Task,Done,GET,Get Team,software,Luke Bahrou,6317c5c155b0a9e29f1c2577,,,Medium,Done,Jake Hamilton,62e998f332850ea2a3241585,Aaron Cox,5ce302b809f2de0dc7505ba8,Aaron Cox,5ce302b809f2de0dc7505ba8,9/28/22 9:35,1/9/23 11:32,1/10/23 11:45,11/9/22 9:46,2022.11.22,now,11/21/22 0:00,1,,,,"*As a* authenticated use
+
+*I want to* click on the account name or customer # in the menu flyout
+
+*So that* I can be linked to My Account page
+
+!image-20220928-143836.png|width=401,height=567!
+
+
+
+This area of the header is by far the most used by customers but currently is static text. We should take users to their My Account page so they can continue to navigate through their account.
+
+!image-20221005-151828.png|width=970,height=484!",,Aaron Cox,Harsh Tyagi,Jake Hamilton,Mark Guagenti,Morghan Buhrman,,,,,,,,,,5ce302b809f2de0dc7505ba8,61a684b7657a050070e70e09,62e998f332850ea2a3241585,5d52efbe18620f0d9f382b7f,5e66556bae59460cfb019234,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AN-1111,,,,,,28/Sep/22 9:39 AM;aaron.cox;image-20220928-143836.png;https://zorotools.atlassian.net/secure/attachment/103179/image-20220928-143836.png,05/Oct/22 10:19 AM;aaron.cox;image-20221005-151828.png;https://zorotools.atlassian.net/secure/attachment/103654/image-20221005-151828.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=2}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":2,""lastUpdated"":""2022-11-22T11:47:45.705-0600"",""stateCount"":2,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":2,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,GET-2,Improve Online Returns Functionality + Awareness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,YES,,,Yes,,,,,,1|hzj033:,,,,,Part of GET-107 changes to Flyout menu. ,,"Shortened flyout greeting to first name, made fly out greeting name link to account overview",,,,,,,,,,Vendor,,,,,,,,,,,,,,11/2/22 19:34,,,,,,,,,,,,,,,,,,,,,,,,GET Sprint 2022.U,GET Sprint 2022.V,,,,,,11/2/22 0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,YES,,,,,,,,,,,,,,,A new component,,,,,,,,,,24:48.5,05/Oct/22 2:24 PM;5ce302b809f2de0dc7505ba8;FYI GET team is planning this related work for the upcoming sprint:[https://zorotools.atlassian.net/browse/GET-107|https://zorotools.atlassian.net/browse/GET-107][https://zorotools.atlassian.net/browse/GET-107|https://zorotools.atlassian.net/browse/GET-107|smart-link],"06/Oct/22 9:24 AM;5d52efbe18620f0d9f382b7f;Need to determine what label to use for account name hyperlink
+
+{{data-analytics=""['Navigation', 'flyout-account', '???']""}}",07/Oct/22 9:42 AM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;[~accountid:5d52efbe18620f0d9f382b7f] Any answer regarding label for account name hyperlink? 👇 ,"07/Oct/22 9:50 AM;5d52efbe18620f0d9f382b7f;[~accountid:557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f] Confirmed with the team. We will use same label as the current overview link {{data-analytics=""['Navigation', 'flyout-account', 'My Account']""}}
+
+
+
+Thanks\!",12/Oct/22 10:10 AM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;[~accountid:5e66556bae59460cfb019234] Reaching out to others to assure ADA compliance. ,12/Oct/22 12:44 PM;5e66556bae59460cfb019234;[~accountid:557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f] We’ve added a new AC for the hover state recommendation ,"02/Nov/22 2:37 PM;62e998f332850ea2a3241585;Per [~accountid:5d52efbe18620f0d9f382b7f] in comment below, will use following {{data-analytics}} attribute: {{data-analytics=""['Navigation', 'flyout-account', 'My Account']}}",04/Nov/22 12:18 PM;62e998f332850ea2a3241585;Need to review/add/update unit tests and investigate click stream tagging.,"04/Nov/22 3:21 PM;62e998f332850ea2a3241585;Per [~accountid:5d52efbe18620f0d9f382b7f] , Clickstream tagging and analytics tagging ACs are the same thing. removing clickstream from AC.
+
+Reviewing tests.","07/Nov/22 4:33 PM;62e998f332850ea2a3241585;Ready for QA as part get-107, have notified [~accountid:62ed880ae50f2f2a3955cd52] [~accountid:61a684b7657a050070e70e09] ",09/Nov/22 9:45 AM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;QA'd as part of [GET-107],09/Nov/22 9:46 AM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;Awaiting GET-49 to be Released to customers,,,,,,,,,,,,,,,Done
+Fix registration button on Track My Order page,GET-100,168380,,Defect,Done,GET,Get Team,software,Luke Bahrou,6317c5c155b0a9e29f1c2577,,,Medium,Done,Jake Hamilton,62e998f332850ea2a3241585,Morghan Buhrman,5e66556bae59460cfb019234,Morghan Buhrman,5e66556bae59460cfb019234,9/12/22 10:24,1/9/23 11:30,1/9/23 13:15,10/3/22 9:39,2022.10.03,,10/4/22 0:00,0,,,,"As a user who wants to create an account from the Track My Order page, I want to be able to easily select the button to do so. 
+
+The Begin Registration button on the Track My Order page is shorter in height than our smallest button. It is 36px and should be 44px. Use a large Vuetify button. 36px is too short as a touch target on mobile and does not comply with Accessibility standards. 
+
+We also want to change the CTA of that button to say “Create Account” to match registration updates that Manage is making elsewhere. ",get-c   [https://getc-www.zoro.com/|https://getc-www.zoro.com/],Harsh Tyagi,Jake Bewley,Luke Bahrou,Melanie Maerz,Morghan Buhrman,,,,,,,,,,61a684b7657a050070e70e09,5e7a29b9dde7030c4f153020,6317c5c155b0a9e29f1c2577,62ed880ae50f2f2a3955cd52,5e66556bae59460cfb019234,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30/Sep/22 4:53 AM;ug:3609eca5-f52a-4e59-ab36-415f9233885d;GET-100 bug fix .jpg;https://zorotools.atlassian.net/secure/attachment/103334/GET-100+bug+fix+.jpg,29/Sep/22 4:33 AM;ug:3609eca5-f52a-4e59-ab36-415f9233885d;GET-100 img4 .jpg;https://zorotools.atlassian.net/secure/attachment/103264/GET-100+img4+.jpg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,YES,,,Yes,,,,,,1|hzygqv:,,,,,Updating styling and call to action on Begin Registration button on Track My Order page.,,,,,,,,,,,,Vendor,,,,,,,,,,,,,,9/20/22 14:21,,,,,,,,,,,,,,,,,,,,,,,,GET Sprint 2022.S,GET Sprint 2022.T,,,,,,9/20/22 0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A new component,,,,,,,,,,33:22.6,"29/Sep/22 4:33 AM;61a684b7657a050070e70e09;[~accountid:5e7a29b9dde7030c4f153020][~accountid:5e66556bae59460cfb019234]  The size of the Create Account button is 48px but it is supposed to be 44px based on the description of the ticket.  
+
+!GET-100 img4 .jpg|width=1366,height=768!",29/Sep/22 10:52 AM;5e7a29b9dde7030c4f153020;[~accountid:61a684b7657a050070e70e09] fix deploying to get-c,"30/Sep/22 4:53 AM;61a684b7657a050070e70e09;{color:#36b37e}*QA PASSED \!* {color}{color:#36b37e}Bug fixed.{color}
+
+!GET-100 bug fix .jpg|width=1366,height=768!","30/Sep/22 11:06 AM;6317c5c155b0a9e29f1c2577;UAT Passed, Bug fixed",,,,,,,,,,,,,,,,,,,,,,,Done
+"Develop Thank You Page for single Return form for customers making ""contact CSA"" return",GET-97,168100,,User Story,Closed,GET,Get Team,software,Luke Bahrou,6317c5c155b0a9e29f1c2577,,,Medium,Done,Jake Hamilton,62e998f332850ea2a3241585,Morghan Buhrman,5e66556bae59460cfb019234,Andre Alforque,557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f,9/7/22 11:42,1/9/23 11:27,2/9/23 14:53,11/1/22 8:29,2022.11.09,,12/5/22 0:00,1,,,,"h1. User Story
+
+h2. Approach
+
+Routes to component
+
+Hyperlinks to continue shopping experience on Zoro.
+
+Assuming this is a component, Left-hand-nav for CSAs duplicates existing CSA component (same as on FAQ; new heading); Also on Learn More HEC page. (If not, break out).
+
+h2. Design Guide
+
+As a Zoro Customer Service agent, I need to have the following information in the first request to avoid unnecessary back and forth with the user.
+
+* Order Number
+* Reason code
+* Item they want to return
+* Quantity they want to return (if applicable) 
+* Replacement or refund
+
+Brainstorm some possibilities for how we can evolve our new journey from Order History to better support these two user types. (As a first step toward more online returns awareness we are sending items that are only eligible for a CS return to the default Contact Us form.) 
+
+Create quick sketches or visuals to get the team thinking about what may or may not be possible. Share ideas.","[https://geta-www.zoro.com/|https://geta-www.zoro.com/]
+
+feature flag:
+
+{{temp-add-start-return-form-GET-94}}
+[https://app.launchdarkly.com/zcom/dev/features/temp-add-start-return-form-GET-94/targeting|https://app.launchdarkly.com/zcom/dev/features/temp-add-start-return-form-GET-94/targeting]
+
+*Testing*
+Validate, after customer submits a return via *Contact Us* page, *Thank You* page appears. ",Basent Ismail,Harsh Tyagi,Jake Hamilton,James Crouch,Jared Smith,Kaylee Carlson,Kris Knapczynski,Melanie Maerz,Neha Jain,,,,,,60c2513ea1746300709b6b22,61a684b7657a050070e70e09,62e998f332850ea2a3241585,5cd9cea04305dc0dc7a11b58,627d65e49bb6600069962ae0,5ec6d5e620ff300c1e3b854a,5e3072213bdc3a0ca55f2f5b,62ed880ae50f2f2a3955cd52,61d48f8f0586a200694f4330,,,,,,,,,,,,,,,,,,,,,,,,,DAIS-828,,,,GET-94,GET-96,,,,,MANAGE-188,GET-98,GET-135,GET-157,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,YES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=OPEN, stateCount=1}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":1,""lastUpdated"":""2022-11-01T15:27:58.922-0500"",""stateCount"":1,""state"":""OPEN"",""dataType"":""pullrequest"",""open"":true},""byInstanceType"":{""bitbucket"":{""count"":1,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,12/5/22 20:31,,,,,,,,,,,,,GET-2,Improve Online Returns Functionality + Awareness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,YES,Neha Jain,61d48f8f0586a200694f4330,Yes,,,,,,1|hzygrr:,,,,,Added thank you page after successful completion of Custom Return Form,,"Routes to component
+
+Hyperlinks to continue shopping experience on Zoro.",,,,,,,,,,Vendor,,,,,,,,,,,,,,10/18/22 18:33,,,,,,,,,,,,,,,,,,,,,,,,GET Sprint 2022.S,GET Sprint 2022.T,GET Sprint 2022.U,GET Sprint 2022.V,,,,10/18/22 0:00,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A new component,,,,,,,,,,20:46.4,21/Sep/22 9:20 AM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;Dependent on Django process,26/Sep/22 6:58 PM;62e998f332850ea2a3241585;Wrote and updated django view code to allow for client side child routing; added client side child routing; setup shared/common return-order-branch for sharing necessary code between branches cleanly.,26/Sep/22 7:04 PM;62e998f332850ea2a3241585;Vue component file finished besides a few styling issues dependent on related story and analytics. Unit tests complete. Ready to move to qa after fixing styling styling issues.,05/Oct/22 11:00 AM;62e998f332850ea2a3241585;Link to return screen figma design frame: [https://www.figma.com/file/Oh3Q6b7qezbgPVwaIHabVl/Returns?node-id=1722%3A69234|https://www.figma.com/file/Oh3Q6b7qezbgPVwaIHabVl/Returns?node-id=1722%3A69234|smart-link],05/Oct/22 3:52 PM;62e998f332850ea2a3241585;Working with analytics team to add tracking.,05/Oct/22 3:53 PM;62e998f332850ea2a3241585;PR: [https://bitbucket.org/zorotools/%7B03269ff8-c66c-4990-a44c-56a25db86d1d%7D/pull-requests/10501|https://bitbucket.org/zorotools/%7B03269ff8-c66c-4990-a44c-56a25db86d1d%7D/pull-requests/10501|smart-link],17/Oct/22 12:14 PM;60c2513ea1746300709b6b22;Analytics Specs [here|https://docs.google.com/spreadsheets/d/1C7J4Ri_JgNhs05Awy_pNlAq-vRI6jIbL3RYnqte87pY/edit#gid=1123500195&range=12:12]. ,"19/Oct/22 10:10 AM;5ec6d5e620ff300c1e3b854a;Hello! 
+Will this URL have ""thanks"" in it? We regularly use the presence of “thanks” in the URL as a proxy for order confirmations, since it doesn’t have it’s own page type and this could interfere with that existing logic, if so. ","20/Oct/22 10:04 AM;62e998f332850ea2a3241585;[~accountid:5ec6d5e620ff300c1e3b854a] It will not, sorry didn’t know there was a standard practice here. the URL will be /contact-return/confirmation.","20/Oct/22 11:48 AM;5ec6d5e620ff300c1e3b854a;It’s preferred that it _doesn’t_ contain “thanks”, since it’s not an order confirmation, so no need to apologize! This is ideal. Thanks for confirming [~accountid:62e998f332850ea2a3241585] !",25/Oct/22 12:19 AM;62ed880ae50f2f2a3955cd52;[~accountid:61a684b7657a050070e70e09] Assigned to you to start testing - please let me know if any questions.,27/Oct/22 12:04 PM;62ed880ae50f2f2a3955cd52;[~accountid:61d48f8f0586a200694f4330] Reassigned for testing!  Thank you so much!,"28/Oct/22 9:24 AM;61d48f8f0586a200694f4330;Hi [~accountid:62ed880ae50f2f2a3955cd52] [~accountid:61a684b7657a050070e70e09] 
+
+I am done with the testing. Everything seems good at my end.
+Have a look and let me know in case of any concerns.
+
+Thanks!!
+
+Neha",31/Oct/22 6:44 AM;62ed880ae50f2f2a3955cd52;Functional QA complete- moving to UAT.,,,,,,,,,,,,,Done
+"Develop form for single Return for customers making ""contact CSA"" return",GET-96,168099,,User Story,Closed,GET,Get Team,software,Luke Bahrou,6317c5c155b0a9e29f1c2577,,,Medium,Done,Vince Hetet,63127a79ea661fd37d4f6638,Morghan Buhrman,5e66556bae59460cfb019234,Andre Alforque,557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f,9/7/22 11:40,1/9/23 11:26,2/9/23 14:53,11/1/22 10:02,2022.11.08,now,12/5/22 0:00,0,,,,"h1. User Story
+
+As a user starting a return online, I need to know exactly what information Zoro needs about my order so they can quickly process my return.
+
+{color:#006644}*Goal: One email exchange Customer Experience returns; must include vital information for CSA to process returns.* {color}
+
+h2. Approach
+
+Guest customers experience remains unchanged. 
+
+Left-hand-nav for CSAs duplicates existing CSA component
+
+Fields for quantity, etc. may not exist in the creation of a new support request; will need to pass information into body of support request so CSA has the data. 
+
+
+
+(Copied from Figma)
+
+h3. Data:
+
+In addition to these fields, Customer Service needs Order Number, email address, part number, category
+
+The subject line we pass should be “Zoro Return Request for [insert Order#]
+
+h3. Reason for Returning Field:
+
+Return Reasons:
+
+* Incorrect Item
+* Ordered Incorrect Quantity
+* Delivery Issue
+* Damanged
+* Found Lower Price
+* No Longer Need
+* Duplicate Order
+* Warranty
+* Hazmat DIF
+
+
+
+
+
+h2. Design Guide
+
+As a Zoro Customer Service agent, I need to have the following information in the first request to avoid unnecessary back and forth with the user.
+
+* Order Number
+* Reason code
+* Item they want to return
+* Quantity they want to return (if applicable) 
+* -Replacement or- refund
+
+Brainstorm some possibilities for how we can evolve our new journey from Order History to better support these two user types. (As a first step toward more online returns awareness we are sending items that are only eligible for a CS return to the default Contact Us form.) 
+
+Create quick sketches or visuals to get the team thinking about what may or may not be possible. Share ideas.","[https://geta-www.zoro.com/|https://geta-www.zoro.com/]
+
+[NetSuite cases are created in SB2|https://1326902-sb2.app.netsuite.com/app/crm/support/caselist.nl?searchtype=Case&searchid=-310&Case_STAGE=%40NOTCLOSED%40&Case_ASSIGNED=%40ALL%40&Case_AWAITINGREPLY=ANY&style=NORMAL&report=&grid=&dle=&sortcol=Case_DATE_raw&sortdir=DESC&csv=HTML&OfficeXML=F&pdf=&size=50&_csrf=Mr55TdydJto2oKoLBZC5jMSuWsAToKhsHU50JmquXrvxujHmkI50-NqoYbGgzfwI180GnUZyg-pkBxzHKWgONR_FbbVD_zmSv6lzr1B5_6LPo2F0AV53fhxjuCOJyipbi1wQ380fCZ8qUOj2IjvMbr0XTC0sytZMYK3MgDKbox0%3D&twbx=F&showall=F&quicksort=Case_DATE_raw%20ASC&whence=]
+
+feature flag:
+
+{{temp-add-start-return-form-GET-94}}
+[https://app.launchdarkly.com/zcom/dev/features/temp-add-start-return-form-GET-94/targeting|https://app.launchdarkly.com/zcom/dev/features/temp-add-start-return-form-GET-94/targeting]
+
+
+
+To receive the confirmation email you will need to enable emails in SB2, you can do so at this link: [+https://1326902-sb2.app.netsuite.com/app/setup/emailpreferences.nl?whence=+|https://1326902-sb2.app.netsuite.com/app/setup/emailpreferences.nl?whence=]
+If you don’t have access you will need a samanage ticket.",Ankita Patnaik,Basent Ismail,Harsh Tyagi,Jake Hamilton,James Crouch,Jared Smith,Kaylee Carlson,Kris Knapczynski,Melanie Maerz,Neha Jain,Vince Hetet,,,,61b75c7a57d5c30071fede8a,60c2513ea1746300709b6b22,61a684b7657a050070e70e09,62e998f332850ea2a3241585,5cd9cea04305dc0dc7a11b58,627d65e49bb6600069962ae0,5ec6d5e620ff300c1e3b854a,5e3072213bdc3a0ca55f2f5b,62ed880ae50f2f2a3955cd52,61d48f8f0586a200694f4330,63127a79ea661fd37d4f6638,,,,,,,,,,,,,,,,,,,,GET-124,,,GET-95,DAIS-849,,,GET-94,,GET-97,,,,GET-135,GET-157,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,YES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=5}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":5,""lastUpdated"":""2022-11-09T14:27:34.676-0600"",""stateCount"":5,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":5,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,12/5/22 20:31,,,,,,,,,,,,,GET-2,Improve Online Returns Functionality + Awareness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,YES,Harsh Tyagi,61a684b7657a050070e70e09,Yes,,,,,,1|hzygrb:,,,,,Custom return form for items that cannot be returned through Narvar,,"in Release/2022.11.07.112036d, ready for deploy
+the change is under this flag: `temp-add-start-return-form-GET-94` 
+And the deploy will happen with the switching on of the feature flag once the ticket GCMT-2903 is released",,,,,,,,,,Vendor,,,,,,,,,,,,,,10/19/22 18:12,,,,,,,,,,,,,,,,,,,,,,,,GET Sprint 2022.S,GET Sprint 2022.T,GET Sprint 2022.U,GET Sprint 2022.V,,,,10/19/22 0:00,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A new component,,,,,,,,,,34:33.2,27/Sep/22 9:34 AM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;[~accountid:63127a79ea661fd37d4f6638]  to review data sent to NS with [~accountid:6317c5c155b0a9e29f1c2577]  to assure necessary text (data) is sent.  (per Jake H. ContactUsForm.tsview; see  [https://zorotools.atlassian.net/browse/GET-61|https://zorotools.atlassian.net/browse/GET-61|smart-link]  ),17/Oct/22 12:13 PM;60c2513ea1746300709b6b22;Analytics specifications ready [here|https://docs.google.com/spreadsheets/d/1C7J4Ri_JgNhs05Awy_pNlAq-vRI6jIbL3RYnqte87pY/edit#gid=1123500195&range=9:11]. ,25/Oct/22 12:15 AM;62ed880ae50f2f2a3955cd52;[~accountid:61a684b7657a050070e70e09] Assigned to you to start testing - please let me know if any questions.,"26/Oct/22 8:45 AM;62ed880ae50f2f2a3955cd52;{color:#ff5630}*_NOTE:_*{color} Based on [https://zorotools.atlassian.net/browse/GET-94|https://zorotools.atlassian.net/browse/GET-94|smart-link], *Replacement* is no longer an option.",27/Oct/22 10:29 AM;61b75c7a57d5c30071fede8a;QA validation is in progress.,"27/Oct/22 3:37 PM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;[~accountid:63127a79ea661fd37d4f6638] FYI: Per [https://zorotools.atlassian.net/browse/MANAGE-188|https://zorotools.atlassian.net/browse/MANAGE-188|smart-link]  and [https://zorotools.atlassian.net/browse/DAIS-836|https://zorotools.atlassian.net/browse/DAIS-836|smart-link] , decision made to only track Event Error Type (excluding error message, etc.). ","31/Oct/22 6:03 AM;61a684b7657a050070e70e09;[~accountid:61d48f8f0586a200694f4330] For Testing: 
+
+Test the form elements (Reuse test cases/runs from Get-94 it will cover most of the form validation.)Add test cases for quantity setter , reason list , comment box and submit button to it to ensure complete form validation.Also validate a NetSuite support case is formed with the order and product details when user submits request for Return.",31/Oct/22 6:47 AM;62ed880ae50f2f2a3955cd52;[~accountid:61a684b7657a050070e70e09] [~accountid:61d48f8f0586a200694f4330] This ticket also requires email validation (NS)- I or the dev can help with NS SB2 permissions for this testing.,31/Oct/22 11:03 AM;61d48f8f0586a200694f4330;[~accountid:62ed880ae50f2f2a3955cd52] [~accountid:63127a79ea661fd37d4f6638] when are we supposed to get the email for validation?,"31/Oct/22 11:05 AM;63127a79ea661fd37d4f6638;[~accountid:61d48f8f0586a200694f4330] emails are not available in lower environments at this time. I am working with the Netsuite team to enable it but it’s taking some time.
+So we won’t be able to test the validation email until the netsuite team figure out how to enable the emails.
+edit: fyi we have story to track the issue with Netsuite emails in lower environment: [https://zorotools.atlassian.net/browse/GET-129|https://zorotools.atlassian.net/browse/GET-129|smart-link]","01/Nov/22 11:09 AM;61d48f8f0586a200694f4330;[~accountid:61a684b7657a050070e70e09] [~accountid:62ed880ae50f2f2a3955cd52] I have completed the testing of this ticket. 
+Thank you!!",08/Nov/22 1:54 PM;60c2513ea1746300709b6b22;Specs [here|https://docs.google.com/spreadsheets/d/1C7J4Ri_JgNhs05Awy_pNlAq-vRI6jIbL3RYnqte87pY/edit#gid=1123500195&range=9:11]. ,,,,,,,,,,,,,,,Done
+Pre-populate Contact Form with Returns data,GET-61,166221,,User Story,Done,GET,Get Team,software,Luke Bahrou,6317c5c155b0a9e29f1c2577,,,Medium,Done,Jake Hamilton,62e998f332850ea2a3241585,Andrew Gorman,5ce2cdcf8b5ac40dccaaab33,Andrew Gorman,5ce2cdcf8b5ac40dccaaab33,8/17/22 8:57,12/28/22 13:10,2/9/23 14:53,10/26/22 10:24,2022.10.26,,12/28/22 0:00,1,,,,"Extend front-end state mgmt/store to facilitate/enable cross-component state sharing for contact return form flow.
+
+* Added orderReturnDetail property to the store/user module to house returns data; 
+* Added actions for components to set/modify user/orderReturns data;
+* Added getter for selecting user/orderReturns data;
+* Added getter for using querying other slices of the state for relevant order/product data;
+
+h3. Functionality (F)
+
+_Adds state and behavior to front-end store for managing and sharing data among relevant components during order return flow._
+
+h3. Notes
+
+Added state and behavior to front-end store for managing and sharing data among relevant components during order return flow.",[https://geta-www.zoro.com/|https://geta-www.zoro.com/],Andrew Gorman,Harsh Tyagi,Jake Bewley,Jake Hamilton,Kamya Singh,Melanie Maerz,Morghan Buhrman,,,,,,,,5ce2cdcf8b5ac40dccaaab33,61a684b7657a050070e70e09,5e7a29b9dde7030c4f153020,62e998f332850ea2a3241585,61a684b7657a050070e70e0e,62ed880ae50f2f2a3955cd52,5e66556bae59460cfb019234,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GET-66,,,,,,29/Aug/22 10:02 AM;ug:3609eca5-f52a-4e59-ab36-415f9233885d;image-20220829-150036.png;https://zorotools.atlassian.net/secure/attachment/101174/image-20220829-150036.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=5}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":5,""lastUpdated"":""2022-11-07T10:17:04.428-0600"",""stateCount"":5,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":5,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,GET-2,Improve Online Returns Functionality + Awareness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Improve Returns Awareness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,Kamya Singh,61a684b7657a050070e70e0e,Yes,,,,,,1|hzxpwn:,,,,,"Extend front-end state mgmt/store to facilitate/enable cross-component state sharing for contact return form flow.
+
+Added orderReturnDetail property to the store/user module to house returns data; 
+
+Added actions for components to set/modify user/orderReturns data;
+
+Added getter for selecting user/orderReturns data;
+
+Added getter for using querying other slices of the state for relevant order/product data;",,,,,,,,,,,,Vendor,,,,,,,,,,,,,,9/21/22 15:07,,,,,,,,,,,,,,,,,,,,,,,,GET Sprint 2022.Q,GET Sprint 2022.R,GET Sprint 2022.S,GET Sprint 2022.T,GET Sprint 2022.U,GET Sprint 2022.V,,9/21/22 0:00,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A new component,,,,,,,,,,42:15.7,19/Aug/22 10:42 AM;5e66556bae59460cfb019234;[~accountid:62e998f332850ea2a3241585] I have a mockup of the desired auto-populated form in this file [https://www.figma.com/file/Oh3Q6b7qezbgPVwaIHabVl/Returns?node-id=1076%3A14445|https://www.figma.com/file/Oh3Q6b7qezbgPVwaIHabVl/Returns?node-id=1076%3A14445|smart-link] ,26/Aug/22 9:19 AM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;On getA env,"29/Aug/22 10:02 AM;61a684b7657a050070e70e09;Getting this backend issue.
+
+!image-20220829-150036.png|width=1366,height=768!","29/Aug/22 10:34 AM;61a684b7657a050070e70e09;[~accountid:62e998f332850ea2a3241585] [~accountid:557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f] Do we need [https://zorotools.atlassian.net/browse/GET-49|https://zorotools.atlassian.net/browse/GET-49|smart-link] in a running state to test this ticket ?
+
+
+
+Also , a Heads up [~accountid:61a684b7657a050070e70e0e] will QA this ticket for us to help me work on the tickets that are already assigned to me in BUY team.","29/Aug/22 2:26 PM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;[~accountid:61a684b7657a050070e70e09] Yes, this functionality is dependent on [https://zorotools.atlassian.net/browse/GET-49|https://zorotools.atlassian.net/browse/GET-49|smart-link] . ","30/Aug/22 10:31 AM;61a684b7657a050070e70e09;Based on recent discussion , the Contact Us auto-populate functionality is not ready , so we will keep QA on hold for it.",06/Sep/22 11:14 AM;61a684b7657a050070e70e0e;Currently testing it along/as part of GET-49,"13/Sep/22 2:59 AM;61a684b7657a050070e70e0e;Update from Alex: _We've identified an issue with a microservice that determines what items are able to be returned through narvar and what items cannot. Currently items that should not be returnable, which are the ones that would have the contact customer service link, are being marked as returnable and thus have the wrong button and the wrong experience in narvar as well._
+
+_Until these microservice issues are fixed QA for get-49 will likely be blocked as the logic it depends upon is incomplete_
+
+09.12.22","21/Sep/22 10:07 AM;62ed880ae50f2f2a3955cd52;Checked in with Jake/Alex: Microservice issues have not yet been resolved, so moving to *In Progress* and assigned back to Dev for now. ","21/Sep/22 3:56 PM;62e998f332850ea2a3241585;Added {{orderReturnItem}} vuex getter which finds and returns the item associated with the {{zoroNo}} stored in {{orderReturnDetail}}, or otherwise returns null.","05/Oct/22 3:35 PM;62e998f332850ea2a3241585;PR: https://bitbucket.org/zorotools/%7B03269ff8-c66c-4990-a44c-56a25db86d1d%7D/pull-requests/10500
+",13/Oct/22 4:14 PM;62e998f332850ea2a3241585;Adding new functionality to persist return state through browser refreshes via session storage,"18/Oct/22 1:22 PM;5e7a29b9dde7030c4f153020;Story enables store, objects models, as well as pre-populated form. Allows us to share data between components.","19/Oct/22 2:16 PM;62e998f332850ea2a3241585;Per [~accountid:6317c5c155b0a9e29f1c2577], & [~accountid:5e66556bae59460cfb019234], due to complexities found when implementing persisting order return state via browser session storage (needing to refetch some data through other services), this functionality will get its own ticket/story. 
+
+Will be restoring previous versions of files. ","19/Oct/22 5:08 PM;62e998f332850ea2a3241585;Nature of the story has changed over the months, and pre-populating ther general contat form is superseded by work on returns-specific contat form. Removing code in contact us form. keeping store/vuex code for contact return flow components",24/Oct/22 10:04 AM;5e7a29b9dde7030c4f153020;[~accountid:62ed880ae50f2f2a3955cd52] see comment below. Nature of ticket changed as we moved from the first iteration of the contact form to our current iteration. No testing required.,"26/Oct/22 10:24 AM;62e998f332850ea2a3241585;Extend front-end state mgmt/store to facilitate/enable cross-component state sharing for contact return form flow.
+
+Added orderReturnDetail property to the store/user module to house returns data; 
+
+Added actions for components to set/modify user/orderReturns data;
+
+Added getter for selecting user/orderReturns data;
+
+Added getter for using querying other slices of the state for relevant order/product data;",,,,,,,,,,Done
+CSA Call Listen,GET-161,174014,,Tech Discovery,Closed,GET,Get Team,software,Luke Bahrou,6317c5c155b0a9e29f1c2577,,,Medium,,Jake Hamilton,62e998f332850ea2a3241585,Jake Bewley,5e7a29b9dde7030c4f153020,Jake Bewley,5e7a29b9dde7030c4f153020,11/17/22 14:43,12/20/22 16:15,12/20/22 16:05,,,,12/20/22 0:00,0,CustomerServiceRideAlong,,,"In an effort to better understand our customer, listen to a customer call relating to the Get team’s work.
+
+
+
+New assigned calls:
+
+9147170996110030491- Return/Replacement
+
+9147171976010000491- Return/Replacement
+
+9147112972020000491- Return/Replacement
+
+9147147642980000491- Order Status
+
+9147171784140010491- Order Status
+
+9147172444280000491- Order Status",,Jake Bewley,Jake Hamilton,Luke Bahrou,,,,,,,,,,,,5e7a29b9dde7030c4f153020,62e998f332850ea2a3241585,6317c5c155b0a9e29f1c2577,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Environment
+- Dataset Name:
+
+- Dataset Workspace:
+
+- DAG Name (Optional):
+
+- Data Source:
+
+- Systems affected (Looker, SFMC,.,.):
+
+- Business Impact:
+
+Precondition
+ -
+
+Steps to reproduce
+ -
+
+Current behavior
+ -
+
+Expected behavior
+ -",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"As a 
+
+I want to 
+
+so that",,,,,,,{},,,,,,,,,,,,,,,"As a
+
+I want to
+
+So that 
+
+Stakeholders
+Business Owner: 
+
+Technical Owner: 
+
+Technical Product Owner: 
+
+Platform Architect/Lead Engineer: 
+
+Data Engineer(s): TBD
+
+Problem Statement(s)
+ -
+ -
+ 
+
+In Scope
+ -
+ -
+Out of Scope
+ -
+ -
+Details
+ -",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,,,,,,1|hzza1j:,,,,,,,,,,,,,,,,,Vendor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"As a 
+
+I want to (explore/research/discover/design)
+
+So that ",,GET Sprint 2022.Y,GET Sprint 2022.Z,,,,,,12/20/22 0:00,,"As a 
+
+
+I want to 
+
+
+so that",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A new component,,,,"Scenario #1
+Given <<precondition>>
+When <<action>>
+Then <<result>>
+
+Scenario #2 
+Given <<precondition>>
+When <<action>>
+Then <<result>>",,,,,,45:58.8,17/Nov/22 2:52 PM;5e7a29b9dde7030c4f153020;[~accountid:6317c5c155b0a9e29f1c2577] will provide links to videos.,"30/Nov/22 9:45 AM;6317c5c155b0a9e29f1c2577;Thank you so much for your interest in observing some CS interactions again!  I have included the same directions on how to log into the program and your credentials below.  These will be active through 12/8/22 EOD and then access will be revoked.
+
+_Name in Verint: Observation User 6_
+
+* Username:[five9verintobservationuser6@zoro.com|mailto:five9verinttraininguser@zoro.com]
+* Password: Zoro123459!
+
+*Contact ID for Calls Selected -* 
+
+9146928394670000491- Return/Replacement
+
+9147049995260010491- Return/Replacement
+
+9146989003260000491- Return/Replacement
+
+9146989128200000491- Order Status
+
+9146989595230010491- Order Status
+
+9146930569880000491- Order Status
+
+When accessing Verint through Incognito mode in Chrome, please follow the steps under *Pre-Recorded Calls* (first page) in the attached doc which is located under my signature. This will take you to the calls chosen and should be easy to navigate.
+
+[https://docs.google.com/document/d/16b0mJtDT2P2amzHVwsvM13mY98DKQ_lZD_T3LN3nBNY/edit?usp=drive_web|https://docs.google.com/document/d/16b0mJtDT2P2amzHVwsvM13mY98DKQ_lZD_T3LN3nBNY/edit?usp=drive_web|smart-link]","19/Dec/22 1:56 PM;62e998f332850ea2a3241585;requesting access to verint. Samanage ticket was closed, was instructed to submit specialized form. Form submitted.",,,,,,,,,,,,,,,,,,,,,,,,Done
+Account Menu - Design Update/Add Subcopy,GET-107,169408,,User Story,Done,GET,Get Team,software,Luke Bahrou,6317c5c155b0a9e29f1c2577,,,Medium,Done,Jake Hamilton,62e998f332850ea2a3241585,Luke Bahrou,6317c5c155b0a9e29f1c2577,Luke Bahrou,6317c5c155b0a9e29f1c2577,9/23/22 12:06,12/1/22 11:36,12/21/22 10:46,11/8/22 10:11,2022.11.22,now,11/21/22 0:00,1,Development,ExternalDependency,MicroserviceDependency,"As a logged-in customer, I want to know which link in the account menu will direct me to order tracking and return information.
+
+Per Andy Gorman (aligned with UXR and Matt Hertzman): Launch and monitor. No A/B Test. NOTE: Needs to have Returns (GET-49) tickets in place. 
+
+h3. Pages / Components / Modals
+
+# Account Menu
+
+h3. Functionality
+
+* Swap the position of Account Overview and Order History
+* Add ""Tracking, Returns"" subcopy underneath the Order History heading to indicate to the user what they can do in that space
+* Remove the Order Tracking navigation item and add it as subcopy under Order History
+* Add hairline in between Order History and Account Overview
+* For an authenticated account, change the name display to “Hi, Firstname” _(currently including both first and last names)_.
+
+h3. Design
+
+[https://www.figma.com/file/Oh3Q6b7qezbgPVwaIHabVl/Returns?node-id=2046%3A85243|https://www.figma.com/file/Oh3Q6b7qezbgPVwaIHabVl/Returns?node-id=2046%3A85243|smart-link]
+
+!image-20221017-191305.png|width=188,height=456!
+
+See Figma link for hover states
+
+h3. Approach
+
+* -Place behind LaunchDarkly feature flag-
+* Are the current different links hitting a different event? 
+* Maintain current hover state
+* Content Square?
+
+h2. Dependencies
+
+* Analytics
+** Combining acc-menu-08 and acc-menu-12
+** Does ordering of items affect tracking/metrics?
+* Subtitles/subcopy are new style
+* [https://zorotools.atlassian.net/browse/GET-49|https://zorotools.atlassian.net/browse/GET-49|smart-link] must be in Production; either launch this ticket with [https://zorotools.atlassian.net/browse/GET-49|https://zorotools.atlassian.net/browse/GET-49|smart-link], or afterwards. 
+
+h3. Notes
+
+Before/After Metrics TBD
+
+*TEST NOTES*
+{color:#006644}Applies to both {color}{color:#006644}*NS*{color}{color:#006644} and {color}{color:#006644}*CT*{color}{color:#006644} Users.{color}
+1. Validate the order of elements under Account Overview:  1. Name / Customer Number, *2. Reorder Items*, *3. Order History*, *4. Account Overview*, _5. Customer Service, 6. Sign Out_.
+2. Validate {color:#0747a6}_Tracking, Returns_{color} appears under *Order History*.
+3. Validate *Order Tracking* no longer appears.
+4. Validate there is a thin line separating *Order History* section and *Account Overview*.
+5. Validate *My Account* panel (_when user is signed in_) shows “{color:#403294}*Hi, FirstName*{color}” ","get-b
+[https://getb-www.zoro.com/|https://getb-www.zoro.com/]",Aaron Cox,Basent Ismail,Harsh Tyagi,Jake Hamilton,James Crouch,Jared Smith,Kaylee Carlson,Kris Knapczynski,Luke Bahrou,Melanie Maerz,,,,,5ce302b809f2de0dc7505ba8,60c2513ea1746300709b6b22,61a684b7657a050070e70e09,62e998f332850ea2a3241585,5cd9cea04305dc0dc7a11b58,627d65e49bb6600069962ae0,5ec6d5e620ff300c1e3b854a,5e3072213bdc3a0ca55f2f5b,6317c5c155b0a9e29f1c2577,62ed880ae50f2f2a3955cd52,,,,,,,,,,,,,,GCMT-2796,MANAGE-205,GET-49,GCMT-2903,,,,,,,DAIS-843,,,,,,,,,,AN-1111,,,,,,"08/Nov/22 5:11 AM;ug:3609eca5-f52a-4e59-ab36-415f9233885d;GET-107-Mobile-NS-Hi,username.mp4;https://zorotools.atlassian.net/secure/attachment/105646/GET-107-Mobile-NS-Hi%2Cusername.mp4",17/Oct/22 2:13 PM;morghan.buhrman;image-20221017-191305.png;https://zorotools.atlassian.net/secure/attachment/104363/image-20221017-191305.png,,,,,,,,,,,,,,,"Swap the position of Account Overview and Order History
+Add ""Tracking, Returns"" subcopy underneath the Order History heading.
+Remove the Order Tracking navigation item and add it as subcopy under Order History
+Add hairline in between Order History and Account Overview",,,,,,,,,,,,,YES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=2}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":2,""lastUpdated"":""2022-11-22T11:47:45.705-0600"",""stateCount"":2,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":2,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,GET-2,Improve Online Returns Functionality + Awareness,,,,,,,,,,,,,,,,,Impediment,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Improve online returns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,YES,Harsh Tyagi,61a684b7657a050070e70e09,Yes,,,,,,1|hzynmv:,,,,,Updated the account menu to increase returns visibility and made the account name clickable.,,"Swap the position of Account Overview and Order History
+
+Add ""Tracking, Returns"" subcopy underneath the Order History heading to indicate to the user what they can do in that space
+
+Remove the Order Tracking navigation item and add it as subcopy under Order History
+
+Add hairline in between Order History and Account Overview
+
+For an authenticated account, change the name display to “Hi, Firstname” (currently including both first and last names).",,,,,,,,,,Vendor,,,,,,,,,,,,,,11/3/22 22:16,,,,,,,,,,,,,,,,,,,,,,,,GET Sprint 2022.U,GET Sprint 2022.V,,,,,,11/3/22 0:00,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"TEST NOTES
+1. Validate the order of elements under Account Overview:  1. Name / Customer Number, 2. Reorder Items, 3. Order History, 4. Account Overview, 5. Customer Service, 6. Sign Out.
+2. Validate Tracking, Returns appears under Order History.
+3. Validate Order Tracking no longer appears.
+4. Validate there is a thin line separating Order History section and Account Overview.
+5. Validate My Account panel (when user is signed in) shows “Hi, FirstName” ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A new component,,,,,,,,,,23:29.5,05/Oct/22 2:23 PM;5ce302b809f2de0dc7505ba8;FYI Manage team is planning on building [https://zorotools.atlassian.net/browse/MANAGE-227|https://zorotools.atlassian.net/browse/MANAGE-227|smart-link]in the upcoming sprint,"25/Oct/22 6:44 PM;62e998f332850ea2a3241585;Removed Order Tracking button, added caption to order history button. 
+
+Also made changes that aren’t part of the ticket per [~accountid:5e66556bae59460cfb019234] to remove the bottom padding of the menu list element. Trim’d.",25/Oct/22 6:46 PM;62e998f332850ea2a3241585;Passed local tests and lint. Need answers on what if anything analytics would like done with the tracking info on now-removed tracking button.,01/Nov/22 11:57 AM;62e998f332850ea2a3241585;Have reached out to analytics regarding removal of button. ,02/Nov/22 2:23 PM;60c2513ea1746300709b6b22;Analytic Specs [Here|https://docs.google.com/spreadsheets/d/1C7J4Ri_JgNhs05Awy_pNlAq-vRI6jIbL3RYnqte87pY/edit#gid=2059831917&range=15:15],"02/Nov/22 2:33 PM;62e998f332850ea2a3241585;Removing the following item from AC checklist as it belongs on get-117: “_Authenticated account menu greeting (Hi, company name / Hi firstname) has underline effect on hover_”.
+
+Assigning get-117 subtask to myself.","03/Nov/22 5:16 PM;62e998f332850ea2a3241585;thanks
+",04/Nov/22 9:40 AM;62ed880ae50f2f2a3955cd52;Environment: [https://getb-www.zoro.com/|https://getb-www.zoro.com/],"04/Nov/22 9:59 AM;62ed880ae50f2f2a3955cd52;Added *Test Notes* _(validation points based on AC)_, moved to In Testing, Assigned to [~accountid:61a684b7657a050070e70e09] Thanks!",07/Nov/22 10:36 AM;61a684b7657a050070e70e09;Testing for desktop done today. Will continue with mobile testing.,"08/Nov/22 5:11 AM;61a684b7657a050070e70e09;[~accountid:62e998f332850ea2a3241585] [~accountid:62ed880ae50f2f2a3955cd52] This looks good. It’s just the hover action that is not working in the mobile (simulator) as it would on the PC. I wonder if this is because I am testing it on a simulator. If I try to do a slightly longer press the hover effect seems to be working as it should. I would like to know your thought before proceeding. Please see the attached video for reference.
+
+!GET-107-Mobile-NS-Hi,username.mp4|width=1376,height=744!","08/Nov/22 8:21 AM;62e998f332850ea2a3241585;[~accountid:61a684b7657a050070e70e09] Hey Harsh, mobile shouldn’t have hover unless long pressed (since with touch its either press or nothing). let me run it by our designer real fast to make sure Im thinking of this right and follow up. 
+
+",08/Nov/22 8:39 AM;62e998f332850ea2a3241585;[~accountid:61a684b7657a050070e70e09] Confirmed that should be no hover underline on mobile.,08/Nov/22 9:04 AM;61a684b7657a050070e70e09;[~accountid:62e998f332850ea2a3241585] Thank you for confirming. The updates look good. QA complete.,"08/Nov/22 3:44 PM;62e998f332850ea2a3241585;Ready to merge but delaying merge until get-49, 94, 96, 97 are no longer under feature flag.",,,,,,,,,,,,Done
+Transition to CT data on Order Lookup Page,GET-150,173611,,Task,Closed,GET,Get Team,software,Luke Bahrou,6317c5c155b0a9e29f1c2577,,,Medium,Won't Do,Jake Hamilton,62e998f332850ea2a3241585,Luke Bahrou,6317c5c155b0a9e29f1c2577,Andre Alforque,557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f,11/14/22 9:29,11/16/22 8:12,11/16/22 8:12,11/16/22 8:12,,,11/16/22 0:00,0,ExternalDependency,NetSuiteDependency,,"Per Mark Guagenti, we should transition to using CT for Guest Order Lookup data. This is time-boxed Spike to investigate whether all data (including new fields) is available in Commerce Tools. 
+
+The updated order lookup page design requires certain information that is not currently available on the frontend. The expectation is that we will need to make an additional request to the Netsuite team to extend this information for our team to pull into the Order Lookup page.
+
+h3. Currently returned data
+
+{{Ship Date}}
+{{Freight Cost}}
+{{Total Cost}}
+{{Quantity}}
+{{Order Status}}
+{{Tracking Number}}
+{{Zoro #}}
+{{Order Date}}
+{{Ship Method}}
+{{Service (Carrier)}}
+
+h3. Additional data to return
+
+{{Product Image}}
+{{Product Title}}
+{{Total Price (item level)}}
+{{Shipping Address}}
+{{Billing Address}}
+{{Payment Info}}
+{{Subtotal}}
+{{Discounts}}
+{{Shipping Cost}}
+{{Tax}}
+{{Order Total}}
+{{Order Number}}",,Andre Alforque,Jake Hamilton,,,,,,,,,,,,,557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f,62e998f332850ea2a3241585,,,,,,,,,,,,,;16/Nov/22 8:12 AM;62e998f332850ea2a3241585;18000,,0,18000,,,0,18000,,,,,,GET-127,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,11/16/22 14:12,,,,,,,,,,,,,GET-18,Improve Order Lookup Experience,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,Yes,,,,,,1|hzz86v:,,,,,,,,,,,,,,,,,Vendor,,,,,,,,,,,,,,11/14/22 15:31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11/14/22 0:00,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,,A new component,,,,,,,,,,11:14.3,"16/Nov/22 8:11 AM;62e998f332850ea2a3241585;Per team doing netsuite-CT data sync, guest orders aren’t synced right now and aren’t available in CT. Lift to do so is too big, sticking with net suite.",,,,,,,,,,,,,,,,,,,,,,,,,,Done
+Prod - Mobile: Flickering header  issue and gap between the expanded menu and sign in,BROWSE-4302,171719,,Defect,Closed,BROWSE,Digital Product–BROWSE,software,Amie James,5c8810be3bee527de33cc425,,,Medium,Fixed,Adam Jenkins,608731fbf558240070ecd41b,Jake Hamilton,62e998f332850ea2a3241585,Andre Alforque,557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f,10/21/22 13:34,11/10/22 16:40,2/9/23 14:53,11/10/22 16:40,2022.11.10,,11/10/22 0:00,0,,,,"While scrolling down the page, the header start flickering and is not stable. Found by Jake Hamilton.
+
+* *device* Galaxy s20 5G
+* *browser* Chrome 106.0.5249.126
+* *OS* Android 12
+
+
+*Mobile -*
+
+# Launch Zoro homepage
+# scroll down, then reverse scroll direction but slowly/gentle swipe so that the header collapse animation stays mid-collapse state longer
+
+Expected result:-
+
+# The header should stick without flickering
+
+Actual result:-
+
+# The header flickers
+!zoro-glitch.mp4|width=1080,height=2400!",Browse-d,Adam Jenkins,Nadiya Srinivas,Sonika Pundir,,,,,,,,,,,,608731fbf558240070ecd41b,5be06c1625920d32d45fac65,61a684b8ebce470067760fac,,,,,,,,,,,,,,,,,,,,,BROWSE-4334,BROWSE-4335,,,BROWSE-3921,,,,BROWSE-4044,,,,,,,,,,,,,,,,,,02/Nov/22 4:54 AM;ug:65fa2c8a-3092-46ca-a076-9d2372e6c6a5;Header not stable.webm;https://zorotools.atlassian.net/secure/attachment/105245/Header+not+stable.webm,08/Nov/22 2:23 AM;ug:65fa2c8a-3092-46ca-a076-9d2372e6c6a5;first row inactive-mobile.webm;https://zorotools.atlassian.net/secure/attachment/105634/first+row+inactive-mobile.webm,08/Nov/22 2:25 AM;ug:65fa2c8a-3092-46ca-a076-9d2372e6c6a5;image-20221108-082548.png;https://zorotools.atlassian.net/secure/attachment/105635/image-20221108-082548.png,21/Oct/22 1:37 PM;alforque;zoro-glitch.mp4;https://zorotools.atlassian.net/secure/attachment/104655/zoro-glitch.mp4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=4}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":4,""lastUpdated"":""2022-11-10T14:01:09.009-0600"",""stateCount"":4,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":4,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,8/3/22 14:44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Category Navigation,,,,,,,,,,,,,,,,,,,,,,,YES,,,Yes,,,,,,1|hziwzb:,,,,,Prod - Mobile: Flickering header issue and gap between the expanded menu and sign in fixed and working as expected,,,,,,,,,,,,Vendor,,,,,,,,,,,,,,11/2/22 14:10,,,,,,,,,,,,,,,,,,,,,,,,Browse U  10/12 - 10/25,Browse V  10/26 - 11/8,Browse W  11/9 - 11/29,,,,,11/8/22 0:00,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A new component,,,,,,,,,,54:51.8,"02/Nov/22 4:54 AM;61a684b8ebce470067760fac;[~accountid:608731fbf558240070ecd41b] the header is still not stable. It is flickering.
+
+[^Header not stable.webm]",03/Nov/22 1:05 PM;608731fbf558240070ecd41b;[~accountid:61a684b8ebce470067760fac] I’ve added some additional checks to the scroll handler and I wasn’t able to reproduce the issue on SauceLabs so we should be good to go with testing again.,"04/Nov/22 5:24 AM;61a684b8ebce470067760fac;[~accountid:608731fbf558240070ecd41b] following two issues were found and I have created bug tickets for them.
+1. [https://zorotools.atlassian.net/browse/BROWSE-4334|https://zorotools.atlassian.net/browse/BROWSE-4334|smart-link]
+2.[https://zorotools.atlassian.net/browse/BROWSE-4335|https://zorotools.atlassian.net/browse/BROWSE-4335|smart-link]",07/Nov/22 12:43 PM;608731fbf558240070ecd41b;[~accountid:61a684b8ebce470067760fac] Both issues are resolved on Browse-D,"08/Nov/22 2:23 AM;61a684b8ebce470067760fac;[~accountid:608731fbf558240070ecd41b] both the issues are still there on browse-d. I see no changes in it.
+
+
+[^first row inactive-mobile.webm]","08/Nov/22 2:25 AM;61a684b8ebce470067760fac;[~accountid:608731fbf558240070ecd41b] the header in the checkout page is unaligned.
+
+!image-20221108-082548.png|width=1366,height=721!","09/Nov/22 10:35 AM;61a684b8ebce470067760fac;Functional testing completed. Verified on browse-d. Both the issues-[https://zorotools.atlassian.net/browse/BROWSE-4334|https://zorotools.atlassian.net/browse/BROWSE-4334|smart-link] and [https://zorotools.atlassian.net/browse/BROWSE-4335|https://zorotools.atlassian.net/browse/BROWSE-4335|smart-link] have been fixed. 
+Testing evidences attached to PractiTest.
+","10/Nov/22 4:37 PM;5be06c1625920d32d45fac65;Verified on Production. Working as expected.
+
+Moving the ticket to ‘Done’ state",,,,,,,,,,,,,,,,,,,Done
+Track My Order Details Page,GET-75,167292,,Solution Discovery,Done,GET,Get Team,software,Luke Bahrou,6317c5c155b0a9e29f1c2577,,,Medium,,Jake Hamilton,62e998f332850ea2a3241585,Andrew Gorman,5ce2cdcf8b5ac40dccaaab33,Andrew Gorman,5ce2cdcf8b5ac40dccaaab33,8/27/22 21:13,11/9/22 9:49,2/9/23 14:53,,now,,11/9/22 0:00,1,Solution-Discovery,,,"When customers lookup their order using /Track-my-order page, they currently only see the Delivery status of their order based on the tracking number. This provides no detail regarding the order details itself, and no affordance to other self-serve order mgmt features like Returns.
+
+However, we’re able to retrieve more helpful order details to the Track page. See Get-64 for order data retrieval. 
+
+_Story:_ As a customer tracking their order, I want to view more details about my order so I can manage my order if I need to without having to go somewhere else.
+
+How might we show the customer more details about their order including supporting the following intents:
+
+# Can see multiple tracking statuses if there is more than one shipment per their order.
+# Can view the order number, and items in the order, and relevant content for each item in the order (similar to Order History/Sales Order list.)
+# Can initiate return at the line item level (similar to new Returns treatment).
+# (Exploration) If item has not shipped allow for cancelation request.
+
+
+[https://zorotools.atlassian.net/browse/GET-64|https://zorotools.atlassian.net/browse/GET-64|smart-link] ",,Andrew Gorman,Jake Hamilton,Melanie Maerz,,,,,,,,,,,,5ce2cdcf8b5ac40dccaaab33,62e998f332850ea2a3241585,62ed880ae50f2f2a3955cd52,,,,,,,,,,,,,,,,,,,,,GET-64,,,,,,,,,,,,,,,,,,,,GET-106,,,,NS-3066,,12/Sep/22 1:55 PM;62e998f332850ea2a3241585;Screen Shot 2022-09-12 at 1.40.41 PM.png;https://zorotools.atlassian.net/secure/attachment/102138/Screen+Shot+2022-09-12+at+1.40.41+PM.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"{repository={count=4, dataType=repository}, json={""cachedValue"":{""errors"":[],""summary"":{""repository"":{""overall"":{""count"":4,""lastUpdated"":""2022-09-16T14:01:35.000-0500"",""dataType"":""repository""},""byInstanceType"":{""bitbucket"":{""count"":4,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Improve Order Tracking Experience,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,,,,,,1|hzxpxz:,,,,,,,,,,,,,,,,,Vendor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GET Sprint 2022.R,GET Sprint 2022.S,GET Sprint 2022.T,GET Sprint 2022.U,GET Sprint 2022.V,,,9/2/22 0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A new component,,,,,,,,,,02:47.7,31/Aug/22 10:02 AM;557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f;[~accountid:62e998f332850ea2a3241585] to create skeleton page with data. Knowledge transfer regarding NS data / functionality powering the feature. ,"05/Sep/22 9:11 PM;62e998f332850ea2a3241585;Created GuestOrderDetailPage, added route for it, pulled in the order querying code from OrderHistoryPage; however, need access to commerce tools in order to make orders trackable (at least status of shipped) and see what kind of data is getting returned","12/Sep/22 1:55 PM;62e998f332850ea2a3241585;Tested that order items query added to guest_order_loop.js is returning order items correctly in sb2
+
+!Screen Shot 2022-09-12 at 1.40.41 PM.png|width=2824,height=1250!","09/Nov/22 9:49 AM;62e998f332850ea2a3241585;This story turned into only updates to guest_order_lookup.js, no ui changes. Added order items collection to order data returned from netsuite for track my order page.",,,,,,,,,,,,,,,,,,,,,,,Done
+Refactor how order data is passed through props down from SalesOrderItems > SalesOrderItem > SalesOrderReturnButton,GET-121,171770,,Debt,New,GET,Get Team,software,Luke Bahrou,6317c5c155b0a9e29f1c2577,,,Medium,,,,Jake Hamilton,62e998f332850ea2a3241585,Jake Hamilton,62e998f332850ea2a3241585,10/21/22 16:15,10/21/22 16:17,1/26/23 10:35,,,,,1,vue,,,"Issue: Starting in SalesOrderItems.ts.vue, the order object and one of the orders nested item objects defined as two different props, such that a prop referencing the order (which contains order item) and a prop referencing one of its items are passed down 3 levels of components in pararel.
+
+Why it needs fixin': 1) Creates complexity by default; 2) obscures the flow of data and relations between involved components; 3) inherently confusing for developers working with these files; 4) There are unit tests written for 3 component that have to be maintained which are testing these orderItem and order props each separately.; 5) Performance?
+
+!sales-order-item-refact2.jpg.png|width=41.66666666666667%!
+
+!sales-order-item-refact1.png|width=430,height=242!
+
+!sales-order-item-refact3.png|width=312,height=329!",,Jake Hamilton,,,,,,,,,,,,,,62e998f332850ea2a3241585,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21/Oct/22 4:17 PM;62e998f332850ea2a3241585;sales-order-item-refact1.png;https://zorotools.atlassian.net/secure/attachment/104670/sales-order-item-refact1.png,21/Oct/22 4:16 PM;62e998f332850ea2a3241585;sales-order-item-refact2.jpg.png;https://zorotools.atlassian.net/secure/attachment/104668/sales-order-item-refact2.jpg.png,21/Oct/22 4:17 PM;62e998f332850ea2a3241585;sales-order-item-refact3.png;https://zorotools.atlassian.net/secure/attachment/104669/sales-order-item-refact3.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,,,,,,1|hzyzk7:,,,,,,,,,,,,,,,,,Vendor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,236,Digital Product - BOF get,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A new component,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do
+[ADA2] Order History - Returns review,MANAGE-61,131170,,User Story,Done,MANAGE,Manage Team,software,Aaron Cox,5ce302b809f2de0dc7505ba8,,,Medium,Done,Jake Hamilton,62e998f332850ea2a3241585,Andre Alforque,557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f,Andre Alforque,557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f,8/26/21 16:26,10/18/22 9:14,2/9/23 14:53,10/11/22 19:03,2022.10.18,,10/12/22 0:00,1,[ADA2],Development,OKR-accessibility,"*This description is no longer relevant due to vuetification. See comments below for current.*
+
+Order History - Returns page using the SiteImprove plugin, and document any issues aligning to AA compliance level in the [ADA2 BGM Audit|https://docs.google.com/spreadsheets/d/1_8XFqRoNJ7omOsz9SzzuLM7AzGldZhxrzKk6nqsuoeY/edit?usp=sharing].
+
+*Issues*
+
+|*Button without a text alternative*
+Buttons should always have a text label. The label can be inserted into the HTML — it does not need to be visible to pass this check.|
+|*Visible label and accessible name do not match*
+The accessible name of any interactive element should contain its visible text label.|
+|*State or property not supported*
+An ARIA attribute has been specified that not supported by this type of element.|
+|*Element IDs are not unique*
+Two or more elements on this page have the same id value. These should be unique.|
+|*Page region without an accessible name*
+Any page section with the role of region should also have an accessible name to identify it.|
+|*Text not included in an ARIA landmark*
+All perceivable text content should be included in an ARIA landmarkhttps://www.w3.org/TR/wai-aria-practices/examples/landmarks/index.html opens in a new window.
+Perceivable text content refers to text that can be perceived by users of assistive technology — some of which may be invisible to sighted users.|
+|*Links are not clearly identifiable*
+Color alone is not enough to distinguish a link from the surrounding text.|
+|*Scrollable element is not keyboard accessible*
+This page has a scrollable section that can't be operated by keyboard.|
+|*Issue:* Product images contain links that do not have a text alternative. There is no text inside <a>, and no alt or aria.
+*Compliancy recommendations:* Use aria-hide and tab index to make it so there is no keyboard focus.|
+
+*Recommendations*
+
+|Make sure all id values are unique within the page.|
+|Provide an accessible name for the region.|
+|Ensure all perceivable text is included in an ARIA landmark.|
+|Add a secondary visual identifier for links.|
+|Make sure that the element can be reached by keyboard.|",,Andrei Cabanban,Jake Hamilton,Marjan Bajc,,,,,,,,,,,,5cfeb660d2389e0bc0d23003,62e998f332850ea2a3241585,5dc09a93174ecc0df605dd9d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUYGET-1753,ADA-85,ADA-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=1}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":1,""lastUpdated"":""2022-10-11T19:06:18.408-0500"",""stateCount"":1,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":1,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,MANAGE-51,ADA2 Audit Delivery Work,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,1|hzv09b:,,,,,Added aria-label to Return History Search button; determined other issues found for ADA on Return History do not need to be addressed.,,Added aria-label to Return History Search button; determined other issues found for ADA on Return History do not need to be addressed.,,,,,,,,,,Vendor,,,,,,,,,,,,,,9/28/22 0:03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9/28/22 0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A new component,,,,,,,,,,00:47.1,"20/Jan/22 2:00 PM;5cfeb660d2389e0bc0d23003;[~accountid:557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f] [~accountid:5dc09a93174ecc0df605dd9d] 
+
+*Issue:* Product images contain links that do not have a text alternative. There is no text inside <a>, and no alt or aria.
+
+*Compliancy recommendations:* Use aria-hide and tab index to make it so there is no keyboard focus.",10/Oct/22 11:30 AM;62e998f332850ea2a3241585;Added aria-label to Return History Search button; determined other issues found for ADA on Return History do not need to be addressed.,11/Oct/22 7:03 PM;62e998f332850ea2a3241585;Added aria-label to Return History Search button; determined other issues found for ADA on Return History do not need to be addressed.,,,,,,,,,,,,,,,,,,,,,,,,Done
+[ADA2] Sign In | Register page review,MANAGE-58,131150,,User Story,Closed,MANAGE,Manage Team,software,Aaron Cox,5ce302b809f2de0dc7505ba8,,,Medium,Done,Jake Hamilton,62e998f332850ea2a3241585,Andre Alforque,557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f,Andre Alforque,557058:ef2288d8-0b6e-481d-8fc0-148f3511ab1f,8/26/21 16:25,10/10/22 12:12,11/14/22 9:35,10/10/22 12:12,,,10/10/22 0:00,1,[ADA2],Development,OKR-accessibility,"*** Only ADA issues found were for global search field (outside of scope of ticket) and duplicate ids for script tags (to be ignored). See comments for screenshot.*
+
+\[Sign In | Register|https://www.zoro.com/sign-in/login] page using the SiteImprove plugin, and document any issues aligning to AA compliance level in the [Vue BGM accessibility audit spreadsheet|https://docs.google.com/spreadsheets/d/1kW_XThWHYuT1PcT_QYV3vAZxaDMtBodAdwUtsTc8Ah8/edit?usp=sharing].
+
+*Issues*
+
+|*Visible label and accessible name do not match*
+The accessible name of any interactive element should contain its visible text label.|
+|*State or property not supported*
+An ARIA attribute has been specified that not supported by this type of element.|
+|*Element IDs are not unique*
+Two or more elements on this page have the same id value. These should be unique.|
+|*Page region without an accessible name*
+Any page section with the role of region should also have an accessible name to identify it.|
+|*Role not inside the required context*
+This page element has a role that only makes sense in the context of another role.|
+|*Text not included in an ARIA landmark*
+All perceivable text content should be included in an [+ARIA landmark+|https://www.w3.org/TR/wai-aria-practices/examples/landmarks/index.html] opens in a new window.
+Perceivable text content refers to text that can be perceived by users of assistive technology — some of which may be invisible to sighted users.|
+|*Links are not clearly identifiable*
+Color alone is not enough to distinguish a link from the surrounding text.|
+|*Container element is empty*
+Some roles are designed to contain other roles. This element has this type of role, but it doesn't contain any required-owned elementshttps://www.w3.org/TR/wai-aria-1.1/#mustContain opens in a new window.|
+|*Form field is not labeled*
+Every form element should have a descriptive text label.|
+|*Scrollable element is not keyboard accessible*
+This page has a scrollable section that can't be operated by keyboard.|
+
+*Recommendations*
+
+|Include the label text in the accessible name of the element.|
+|Use supported states and properties only.|
+|Make sure all id values are unique within the page.|
+|Provide an accessible name for the region.|
+|Make sure the element is contained by another element that has the required context role.|
+|Ensure all perceivable text is included in an ARIA landmark.|
+|Add a secondary visual identifier for links.|
+|Make sure required-owned elements are nested correctly under the context-giving element.|
+|Add a label, making sure it's properly associated with the form field.|
+|Make sure that the element can be reached by keyboard.|",,Jake Hamilton,,,,,,,,,,,,,,62e998f332850ea2a3241585,,,,,,,,,,,,,,Determined no ADA issues relevant to this story; no changes needed.;10/Oct/22 12:12 PM;62e998f332850ea2a3241585;28800,,0,28800,,,0,28800,,,,,,,,,,,,,,,,,,,,,BUYGET-1772,,,,,,,10/Oct/22 12:08 PM;62e998f332850ea2a3241585;manage-58-ada-screenshot1.png;https://zorotools.atlassian.net/secure/attachment/103894/manage-58-ada-screenshot1.png,,,,,,,,,,,,,,,,,,,0.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,10/10/22 17:12,,,,,,,,,,,,,MANAGE-51,ADA2 Audit Delivery Work,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,1|hzv07z:,,,,,,,,,,,,,,,,,Vendor,,,,,,,,,,,,,,10/7/22 22:03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10/7/22 0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A new component,,,,,,,,,,08:16.3,"10/Oct/22 12:08 PM;62e998f332850ea2a3241585;!manage-58-ada-screenshot1.png|width=1767,height=1078!",10/Oct/22 12:12 PM;62e998f332850ea2a3241585;Determined no ADA issues relevant to this story; no changes needed.,,,,,,,,,,,,,,,,,,,,,,,,,Done
+Deploy: Add Order Item Query to guest_order_lookup,NS-3066,168541,,Task,Production,NS,NetSuite,software,Michael Mulkey,60db3d2bfe89c600696c6024,NetSuite team work,,Medium,Done,Alyssa Clarke,6169f83b2f6aed00684c9918,Alyssa Clarke,6169f83b2f6aed00684c9918,Alyssa Clarke,6169f83b2f6aed00684c9918,9/13/22 23:12,9/22/22 7:50,2/9/23 14:53,9/14/22 12:32,,,9/14/22 0:00,0,,,,"When customers lookup their order using /Track-my-order page, they currently only see the Delivery status of their order based on the tracking number. This provides no detail regarding the order details itself, and no affordance to other self-serve order mgmt features like Returns.
+
+However, we’re able to retrieve more helpful order details to the Track page. See Get-64 for order data retrieval.
+
+_Story:_ As a customer tracking their order, I want to view more details about my order so I can manage my order if I need to without having to go somewhere else.",,Alyssa Clarke,Jake Hamilton,Michael Mulkey,Sandra Beck,,,,,,,,,,,6169f83b2f6aed00684c9918,62e998f332850ea2a3241585,60db3d2bfe89c600696c6024,557058:d0cccf8c-c7f3-4c0c-bebf-f384dbac958e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GET-75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,,,,,,1|hzyl0f:,,,,,,,,,,,,,,,,,Vendor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NS22.19 (Ends: 2022/09/27),,,,,,,9/14/22 0:00,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A new component,,,,,,,,,,55:51.8,14/Sep/22 7:55 AM;60db3d2bfe89c600696c6024;Morning [~accountid:6169f83b2f6aed00684c9918] - is this a ticket for us to work under the GET digital product team epic?  Usually those teams do the work and we just deploy.  Do they need assistance from our devs or admins?   What is the urgency level so I can prioritize?,14/Sep/22 10:28 AM;6169f83b2f6aed00684c9918;[~accountid:60db3d2bfe89c600696c6024] It should be under the GET digital product team epic. Apologies if it did not make it to the correct place.,14/Sep/22 11:01 AM;60db3d2bfe89c600696c6024;no worries.  just trying to keep things organized.  Still have a question about who is doing the work and when it’s needed.  [~accountid:6169f83b2f6aed00684c9918] ,"14/Sep/22 11:45 AM;6169f83b2f6aed00684c9918;It’s scheduled to be deployed today. [~accountid:62e998f332850ea2a3241585] is the dev. 
+
+[https://zoro.samanage.com/incidents/98093297-deployment-change-request|https://zoro.samanage.com/incidents/98093297-deployment-change-request] ",14/Sep/22 12:32 PM;557058:d0cccf8c-c7f3-4c0c-bebf-f384dbac958e;QA work has been done in GET-75 and work approved there. Strongpoint CR has been approved.,14/Sep/22 12:32 PM;557058:d0cccf8c-c7f3-4c0c-bebf-f384dbac958e;[https://1326902.app.netsuite.com/app/common/custom/custrecordentry.nl?id=2834&rectype=197&whence=|https://1326902.app.netsuite.com/app/common/custom/custrecordentry.nl?id=2834&rectype=197&whence=] approved,14/Sep/22 1:37 PM;60db3d2bfe89c600696c6024;Ah got it.  thank you. ,,,,,,,,,,,,,,,,,,,,Done

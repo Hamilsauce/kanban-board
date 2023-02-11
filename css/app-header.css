@@ -4,7 +4,7 @@
   justify-content: space-between;
   align-items: center;
   gap: 0px;
-  background: #dfe3e625;
+  background: var(--lightgrey);
 }
 
 #app-header-left {}
