@@ -2,7 +2,7 @@
 
 .card__list {
   display: grid;
-  grid-auto-rows: 120px;
+  grid-auto-rows: minmax(140px, 200px);
   grid-gap: .5rem;
   margin: .5rem 0;
   overflow-y: auto;
@@ -12,14 +12,13 @@
 
 .card__item {
   display: grid;
-  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 2fr;
   grid-template-columns: 1fr;
   gap: 4px;
-  /* align-items: flex-start; */
   background: white;
   border-radius: .25rem;
   box-shadow: 0 1px 0 rgba(9, 45, 66, .25);
-  padding: .5rem;
+  padding: 0.5rem;
   overflow: hidden;
   scroll-snap-align: start;
   scroll-snap-stop: always;
@@ -40,6 +39,8 @@
 .card__tag {
   padding: .2rem .5rem;
   border-radius: .25rem;
+  width: fit-content;
+  height: fit-content;
 }
 
 .card__image {

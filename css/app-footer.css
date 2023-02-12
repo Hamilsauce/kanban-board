@@ -3,6 +3,6 @@
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  padding: 8px 16px;
-  background: var(--lightgrey);
+  padding: 8px 8px;
+  /* background: var(--lightgrey); */
 }

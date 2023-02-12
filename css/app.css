@@ -20,7 +20,7 @@ body {
 
 #app {
   display: grid;
-  grid-template-rows: 48px 1fr auto;
+  grid-template-rows: 40px 1fr 40px;
   grid-template-columns: 1fr;
   gap: 0px;
   width: 100%;
@@ -40,7 +40,7 @@ body {
 
 .board-wrapper {
   height: 100%;
-  padding: 8px 0;
+  padding: 4px 0;
   overflow-x: scroll;
   scroll-snap-type: x mandatory;
   scroll-snap-points-x: repeat(90px);
@@ -111,4 +111,3 @@ body {
 .column__item--cta i {
   margin-right: .25rem;
 }
-

@@ -29,15 +29,6 @@ body {
   overflow: hidden;
 }
 
-/* #app-header {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
-  gap: 0px;
-  padding: 8px 16px;
-} */
-
 #app-body {
   display: flex;
   flex-direction: row;
@@ -75,10 +66,7 @@ body {
 
   grid-auto-flow: column;
   grid-auto-columns: minmax(360px, 1fr);
-  /* overscroll-behavior-x: contain; */
   scroll-snap-type: x mandatory;
-  /* scroll-padding: 20px; */
-  /* scroll-snap-points-x: repeat(90px); */
   overflow-y: hidden;
   overflow-x: scroll;
 }
@@ -98,7 +86,7 @@ body {
   background-color: #dfe3e6;
   border-radius: .2rem;
   overflow-y: hidden;
-/* WHERE THE HORIZONTAL COLUMN SNAPPING HAPPENS */
+  /* WHERE THE HORIZONTAL COLUMN SNAPPING HAPPENS */
 
   scroll-snap-align: center;
   scroll-snastop: always;
@@ -141,10 +129,13 @@ body {
 
 
 /* card styles */
+.column__card-list--wrapper {
+  overflow-y: scroll;
+}
 
 .card__list {
   display: grid;
-  grid-template-rows: auto;
+  grid-auto-rows: minmax(min-content, max-content);
   grid-gap: .5rem;
   margin: .5rem 0;
   overflow-y: scroll;
@@ -155,7 +146,6 @@ body {
   border-radius: .25rem;
   box-shadow: 0 1px 0 rgba(9, 45, 66, .25);
   padding: .5rem;
-  height: 200px;
 }
 
 .card__tag {
