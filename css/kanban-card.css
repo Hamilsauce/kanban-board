@@ -12,7 +12,7 @@
 
 .card__item {
   display: grid;
-  grid-template-rows: 1fr 1fr 2fr;
+  grid-template-rows: 1fr 1fr 50px;
   grid-template-columns: 1fr;
   gap: 4px;
   background: white;
@@ -75,6 +75,20 @@
   margin-bottom: .75rem;
 }
 
+.card__content {
+  overflow: hidden;
+  /* white-space: nowrap; */
+  /* text-overflow: ellipsis; */
+}
+
+.card__content * {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+
+
 /* card actions */
 
 
@@ -83,7 +97,7 @@
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-
+  padding: 8px;
 }
 
 .card__actions {

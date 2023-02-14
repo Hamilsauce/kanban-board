@@ -1,15 +1,27 @@
 #app-header {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
+  display: grid;
+  grid-template-rows: 40px;
+  grid-template-columns: 48px 1fr 48px;
   gap: 0px;
+  padding: 0 0px;
   background: var(--lightgrey);
 }
 
-#app-header-left {}
+#app-header-left {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 0px;
+}
 
-#app-header-center {}
+#app-header-center {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 0px;
+}
 
 #app-title {
   font-weight: 300;
@@ -19,4 +31,10 @@
   /* text-transform: lowercase; */
 }
 
-#app-header-right {}
+#app-header-right {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 0px;
+}

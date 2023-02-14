@@ -14,17 +14,27 @@
     "columns": []
   },
   "KanbanCard": {
-    "name": "string",
+    "id": "string",
+    "title": "string",
     "createdDate": "date",
     "modifiedDate": "date",
-    "members": [],
-    "columns": []
+    "author": "string",
+    "assignee": "string",
+    "tags": {}
+  },
+  "Tag": {
+    "label": "string",
+    "type": "string",
+    "color": "string"
   },
   "Member": {
     "name": "string",
     "createdDate": "date",
     "modifiedDate": "date",
-    "members": [],
+    "role": [],
     "columns": []
+  },
+  "Role": {
+    "name": "string"
   }
 }

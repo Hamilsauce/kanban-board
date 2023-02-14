@@ -4,7 +4,37 @@
   "id": "p1eawx8klapv9mz2idp",
   "createdDate": 1676081891020,
   "cards": [],
-  "columns": [],
-  "tags": [],
+  "columns": [
+    {
+      "title": "To Do",
+      "id": "0",
+      "cards": [
+        {
+          "title": "",
+          "description": "",
+          "tags": [
+            "tecmrh03j0renur56hl1",
+            "tu8rnmx3teojlkf5kiop"
+          ],
+          "comments": [],
+          "assignees": []
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "label": "High Priority",
+      "id": "tecmrh03j0renur56hl1",
+      "type": "",
+      "color": "red"
+    },
+    {
+      "label": "Mobile",
+      "id": "tu8rnmx3teojlkf5kiop",
+      "type": "",
+      "color": "Yellow"
+    }
+  ],
   "members": []
 }

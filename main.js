@@ -4,8 +4,8 @@ import { useRoute } from 'vue-router';
 import ham from 'https://hamilsauce.github.io/hamhelper/hamhelper1.0.0.js';
 
 const { template, utils } = ham;
-console.warn((((new Date(Date.now()).getTime() - 1676081891020) / 1000) / 60)/60);
-
+console.warn((((new Date(Date.now()).getTime() - 1676081891020) / 1000) / 60) / 60);
+console.log('utils.uuid(', 't' + utils.uuid())
 // const appEl = document.querySelector('#app');
 // appEl.innerHTML = new Date(Date.now()).getTime()
 const app = createApp({
